@@ -1,197 +1,696 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 
+
+
+
+<?xml-model href="Washington_Trail.css" type="application/relax-ng-compact-syntax"?>
 <root>
 
-
-    <head>
-        <intro>George Washington The Journal of Major George Washington (1754)</intro>
-
-        <p n="1">In October of 1753, George Washington, a 21-year-old major in the Virginia militia,
-            volunteered to carry a letter from the governor of Virginia to the French commander of
-            the forts recently built on the headwaters of the Ohio River in northwestern
-            Pennsylvania. The French had recently expanded their military operations from the Great
-            Lakes into the Ohio country, and had spent the summer of 1753 building forts and roads
-            along the Allegheny River, with the design of linking their trade routes and sphere of
-            influence down the Ohio to the Mississippi. Virginia governor Robert Dinwiddie believed
-            them to be in violation of treaties and claims that made those territories part of
-            Virginia and Pennsylvania, as granted by the British Crown, and his letter to the French
-            commander instructed him to cease, desist, and depart from those regions. </p>
-        <p n="2"> Washington left Williamsburg, Virginia on October 31, 1753, and completed the
-            round trip of more than 1,000 miles by horse, foot, canoe, and raft in about ten weeks.
-            He was accompanied by Christopher Gist, an explorer and surveyor employed by the Ohio
-            Company, by Jacob Van Braam, a French Interpreter, four Indian traders and baggage-men,
-            and various Indian delegations and guards, including Tanacharison, known as the
-            “Half-King.” Washington accomplished far more than the mere delivery of a letter: he
-            practiced diplomacy to keep the Native leaders allied to the English cause; he
-            interviewed French deserters and reported P on the extent of French military posts
-            between New Orleans and the Great Lakes; he reconnoitered the Forks of the Ohio with an
-            eye to the proper site for building a fort; and he inspected and reported on the
-            construction of the new French forts and made estimates of their strength and
-            preparations for the following year’s expeditions.</p>
-        <p n="3">When Washington arrived back in Williamsburg on January 16, 1754, Governor
-            Dinwiddie immediately asked him to prepare a written report for the House of Burgesses.
-            Dinwiddie then had this eport printed, and it became very popular reading. The Virginia
-            legislature was so pleased with his mission and his report that they voted him a £50
-            reward. The Journal of Major George Washington was reprinted in various colonial
-            newspapers as far away as Boston, and a British edition was issued in London later that
-            same year, for which Washington sent materials for the preparation of a map.</p>
-        <p n="4"> This online electronic text edition of the Journal is based on the first American
-            edition published at Williamsburg in February 1754. It includes some annotations for the
-            nonspecialist reader and a note on the text discussing the sources and the few
-            emendations made. </p>
-
-        <p n="5">It is accompanied by 2 maps, attached as supplementary PDF files: one is a copy of
-            the map that appeared with the London edition, showing the whole region from the
-            Atlantic to the Mississippi, based on materials furnished by Washington; the other is a
-            detail derived from the map accompanying Thomas Jefferson’s Notes on the State of
-            Virginia (1787), showing the frontier region through which Washington travelled, between
-            Cumberland (Md.) and Lake Erie. Of the two, the Jefferson map shows the geography with
-            somewhat greater accuracy. </p>
-    </head>
-
-    <body>
-        <title>THE JOURNAL OF Major George Washington, SENT BY THE Hon.ROBERT DINWIDDIE,Esq; His
-            Majesty’s Lieutenant-Governor, and Commander in Chief of VIRGINIA, TO THE COMMANDANT OF
-            THE FRENCH FORCES ON O H I O. TO WHICH ARE ADDED, THE GOVERNOR’s LETTER, AND A
-            TRANSLATION OF THE FRENCH OFFICER’S ANSWER. WILLIAMSBURG: Printed by WILLIAM HUNTER.
-            1754.</title>
-        <p n="6">I was commissioned and appointed by the Honourable Robert Dinwiddie, Esq;
-            Governor,&c. of Virginia, to visit and deliver a Letter to the Commandant of the French
-            Forces on the Ohio, and set out on the in- tended Journey the same Day; the next,
-            Iarrived at Fredericksburg, and engaged Mr. Jacob Vanbraam, to be my French Interpreter;
-            and proceeded with him to Alex- andria, where we provided Necessaries ; from thence we
-            went to Winchester, and got Baggage, Horses, &c. and from thence we pursued the new Road
-            to Wills-Creek, where we arrived the 14th of November.</p>
+    <div>
 
 
-        <p>Here I engaged Mr. Gist to pilot us out, and also hired four others as Servitors, Barnaby
-            Currin, and John MacQuire, In- dian Traders, Henry Steward, and William Jenkins, and in
-            Company with those Persons, left the Inhabitants the Day following.</p>
-        <p>The excessive Rains and vast Quantity of Snow that had fallen, prevented our reaching Mr.
-            Frazier’s an Indian Trader, at the Mouth of Turtle-Creek, on Monongahela, till Thursday
-            the 22d. We were informed here, that Expresses were sent a few Days ago to the Traders
-            down the River, to acquaint them with the French General’s Death, and the Return of the
-            major Part of the French Army into Winter Quarters.</p>
-        <p> The Waters were quite impassable, without swimming our Horses; which obliged us to get
-            the Loan of a Canoe from Frazier, and to send Barnaby Currin, and Henry Steward, down
-            Monongahela, with our Baggage, to meet us at the Forks of Ohio, about 10 Miles, to cross
-            Aligany. </p>
-        <p> As I got down before the Canoe, I spent some Time in view- ing the Rivers, and the Land
-            in the Fork, which I think ex- tremely well situated for a Fort, as it has the absolut
-            Com- mand of both Rivers. The Land at the Point is 20 or 25 Feet above the common
-            Surface of the Water, and a considerable Bottom of flat, well-timbered Land all around
-            it, very conve- nient for Building : The Rivers are each a Quarter of a Mile, or more,
-            across, and run here very near at right Angles : Alig- any bearing N. E. and Monongahela
-            S. E. the former of these two is a very rapid and swift running Water, the other deep
-            and still, without any perceptible Fall. </p>
-        <p> About two Miles from this, on the South East Side of the River, at the Place where the
-            Ohio Company intended to erect a Fort, lives Shingiss, king of the Delawares; we call’d
-            upon him, to invite him to Council at the Loggs-Town. </p>
-        <p> As I had taken a good deal of Notice Yesterday of the Situ- ation at the Forks, my
-            Curiosity led me to examine this more particularly, and I think it greatly inferior,
-            either for Defence or Advantages ; especially the latter ; for a Fort at the Forks would
-            be equally well situated on Ohio, and have the entire Command of Monongahela, which runs
-            up to our Settlements and is extremely well design’d for Water Carriage, as it is of a
-            deep still Nature ; besides, a Fort at the Fork might be built at a much less Expence,
-            than at the other Place.——— </p>
-        <p> Nature has well contrived the lower Place, for Water Defence; but the Hill whereon it
-            must stand being about a Quarter of a Mile in Length, and then descending gradually on
-            the Land Side, will render it difficult and very expensive, making a sufficient
-            Fortification there.—The whole Flat upon the Hill must be taken in, or the Side next the
-            Descent made extremely high ; or else the Hill cut away : Otherwise, the En- emy may
-            raise Batteries within that Distance without being expos’d to a single Shot from the
-            Fort. </p>
-        <p> Shingiss attended us to the Loggs-Town, where we arrived between Sun-setting and Dark,
-            the 25th Day after I left Wil- liamsburg: We travelled over some extreme good, and bad
-            Land, to get to this Place. — </p>
-        <p> As soon as I came into Town, I went to Monacatoocha (as the Half-King was out at his
-            hunting-Cabbin on little Beaver Creek, about 15 Miles off ) and inform’d him by John
-            Davi- son my Indian Interpreter, that I was sent a Messenger to the French General; and
-            was ordered to call upon the Sachems of the Six Nations, to acquaint them with it.—I
-            gave him a String of Wampum, and a Twist of Tobacco, and desired him to send for the
-            Half-King ; which he promised to do by a Run- ner in the Morning, and for other
-            Sachems.—I invited him and the other great Men present to my Tent, where they stay’d
-            about an Hour and return’d. </p>
-        <p> According to the best Observations I could make, Mr. Gist’s new Settlement (which we
-            pass’d by) bears about W. N. W. 70 Miles from Wills-Creek ; Shanapins, or the Forks N.
-            by W. or N. N. W. about 50 Miles from that ; and from thence to the Loggs-Town, the
-            Course is nearly West about 18 or 20 Miles ; so that the whole Distance, as we went and
-            computed it, is at least 135 or 140 Miles from our back Inhabitants. </p>
-
-        <p> 25th, Came to Town four of ten Frenchmen that deserted from a Company at the Cuscuscas,
-            which lies at the Mouth of this River ; I got the following Account from them. They were
-            sent from New Orleans with 100 Men, and 8 Canoe Loads of Provisions to this Place ;
-            where they expected to have met the same Number of Men, from the Forts this Side Lake
-            Erie, to convey them and the Stores up, who were not arrived when they ran off. </p>
-
-        <p> I enquired into the Situation of the French, on the Missi- sippi, their Number, and what
-            Forts they had built: They inform’d me, That there were four small Forts between New-
-            Orleans and the Black-Islands, garrison’d with about 30 or 40 Men, and a few small
-            Pieces, in each : That at New-Orleans, which is near the Mouth of the Missisippi, there
-            are 35 Com- panies, of 40 Men each, with a pretty strong Fort mount- ing 8 Carriage
-            Guns; and at the Black-Islands there are sev- eral Companies, and a Fort with 6 Guns.
-            The Black-Islands are about 130 Leagues above the Mouth of the Ohio, which is about 350
-            above New-Orleans : They also acquainted me, that there was a small pallisado’d Fort on
-            the Ohio, at the Mouth of the Obaish about 60 Leagues from the Missisippi: The Obaish
-            heads near the West End of Lake Erie, and affords the Communication between the French
-            on Missisippi and those on the Lakes. These Deserters came up from the lower Shanoah
-            Town with one Brown, an Indian Trader, and were going to Philadelphia. </p>
-
-        <p> About 3 o’Clock this Evening the Half-King came to Town ; I went up and invited him and
-            Davison, privately, to my Tent, and desir’d him to relate some of the Particulars of his
-            Journey to the French Commandant, and Reception there ; and to give me an Account of the
-            Ways and Distance. He told me, that the nearest and levellest Way was now impassable, by
-            Reason of many large miry Savannas; that we must be obliged to go by Venango, and should
-            not get to the near Fort under 5 or 6 Night’s Sleep, good Travelling. When he went to
-            the Fort, he said he was received in a very stern Manner by the late Com- mander; Who
-            ask’d him very abruptly, what he had come about, and to declare his Business, which he
-            said he did in the following Speech. </p>
-        <p> Fathers, I am come to tell you your own Speeches; what your own Mouths have declared.
-            Fathers, You, in former Days, set a Silver Bason before us, wherein there was the Leg of
-            a Beaver, and desir’d of all Nations to come and eat of it ; to eat in Peace and Plenty,
-            and not to be churlish to one another ; and that if any such Person should be found to
-            be a Disturber, I here lay down by the Edge of the Dish a Rod, which you must scourge
-            them with ; and if I your Father, should get foolish, in my old Days, I desire you may
-            use it upon me as well as others. </p>
-        <p> Now Fathers, it is you that are the Disturbers in this Land, by coming and building your
-            Towns, and taking it away unknown to us, and by Force. </p>
-        <p> Fathers, We kindled a Fire a long Time ago, at a Place called Montreal, where we desired
-            you to stay, and not to come and in- trude upon our Land. I now desire you may dispatch
-            to that Place ; for be it known to you, Fathers, that this is our Land, and not yours </p>
-        <p> Fathers, I desire you may hear me in Civilness ; if not, we must handle that Rod which
-            was laid down for the Use of the obstreper- ous. If you had come in a peaceable Manner,
-            like our Brothers the English, we should not have been against your trading with us, as
-            they do ; but to come, Fathers, and build great Houses upon our Land, and to take it by
-            Force, is what we cannot submit to. </p>
-        <p> Fathers, Both you and the English are white, we live in a Country between; therefore the
-            Land belongs to neither one nor t’other : But the Great Being above allow’d it to be a
-            Place of Res- idence for us ; so Fathers, I desire you to withdraw, as I have done our
-            Brothers the English ; for I will keep you at Arms length : I lay this down as a Trial
-            for both, to see which will have the great- est Regard to it, and that Side we will
-            stand by, and make equal Sharers with us. Our Brothers the English have heard this, and
-            I come now to tell it to you, for I am not afraid to discharge you off this Land. </p>
-        <p> This he said was the Substance of what he said to the Gen- eral, who made this Reply. 15
-            Miles asunder, and a large Waggon Road between ; they are both built after the same
-            Model, but different in the Size ; that on the Lake the largest; he gave me a Plan of
-            them, of his own drawing. Now my Child, I have heard your Speech, you spoke first, but
-            it is my Time to speak now. Where is my Wampum that you took away, with the Marks of
-            Towns in it? This Wampum I do not know, which you have discharged me off the Land with ;
-            but you need not put yourself to the Trouble of speaking, for I will not hear you : I am
-            not afraid of Flies, or Musquitos, for Indians are such as those; I tell you, down that
-            River I will go, and will build upon it, according to my Command : If the River was
-            block’d up, I have Forces sufficient to burst it open, and tread under my Feet all that
-            stand in Opposition, together with their Alliances ; for my Force is as the Sand upon
-            the Sea Shore: Therefore, here is your Wampum, I fling it at you. Child, you talk
-            foolish; you say this Land belongs to you, but there is not the Black of my Nail yours :
-            I saw that Land sooner than you did, before the Shannoahs and you were at War : Lead was
-            the Man that went down, and took Pos- session of that River : It is my Land, and I will
-            have it, let who will stand up for, or say against it. I’ll buy and sell with the Eng-
-            lish, (mockingly). If People will be rul’d by me, they may expect Kindness, but not
-            else. </p>
 
 
-    </body>
+
+        <head>
+
+            <intro>George Washington The Journal of Major George Washington (1754)</intro>
+
+
+
+            <p n="1">In October of 1753, George Washington, a 21-year-old major in the Virginia
+
+                militia, volunteered to carry a letter from the governor of Virginia to the French
+
+                commander of the forts recently built on the headwaters of the Ohio River in
+
+                northwestern Pennsylvania. The French had recently expanded their military
+
+                operations from the Great Lakes into the Ohio country, and had spent the summer of
+
+                1753 building forts and roads along the Allegheny River, with the design of linking
+
+                their trade routes and sphere of influence down the Ohio to the Mississippi.
+
+                Virginia governor Robert Dinwiddie believed them to be in violation of treaties and
+
+                claims that made those territories part of Virginia and Pennsylvania, as granted by
+
+                the British Crown, and his letter to the French commander instructed him to cease,
+
+                desist, and depart from those regions. </p>
+
+            <p n="2"> Washington left Williamsburg, Virginia on October 31, 1753, and completed the
+
+                round trip of more than 1,000 miles by horse, foot, canoe, and raft in about ten
+
+                weeks. He was accompanied by Christopher Gist, an explorer and surveyor employed by
+
+                the Ohio Company, by Jacob Van Braam, a French Interpreter, four Indian traders and
+
+                baggage-men, and various Indian delegations and guards, including Tanacharison,
+
+                known as the “Half-King.” Washington accomplished far more than the mere delivery of
+
+                a letter: he practiced diplomacy to keep the Native leaders allied to the English
+
+                cause; he interviewed French deserters and reported P on the extent of French
+
+                military posts between New Orleans and the Great Lakes; he reconnoitered the Forks
+
+                of the Ohio with an eye to the proper site for building a fort; and he inspected and
+
+                reported on the construction of the new French forts and made estimates of their
+
+                strength and preparations for the following year’s expeditions.</p>
+
+            <p n="3">When Washington arrived back in Williamsburg on January 16, 1754, Governor
+
+                Dinwiddie immediately asked him to prepare a written report for the House of
+
+                Burgesses. Dinwiddie then had this eport printed, and it became very popular
+
+                reading. The Virginia legislature was so pleased with his mission and his report
+
+                that they voted him a £50 reward. The Journal of Major George Washington was
+
+                reprinted in various colonial newspapers as far away as Boston, and a British
+
+                edition was issued in London later that same year, for which Washington sent
+
+                materials for the preparation of a map.</p>
+
+            <p n="4"> This online electronic text edition of the Journal is based on the first
+
+                American edition published at Williamsburg in February 1754. It includes some
+
+                annotations for the nonspecialist reader and a note on the text discussing the
+
+                sources and the few emendations made. </p>
+
+
+
+            <p n="5">It is accompanied by 2 maps, attached as supplementary PDF files: one is a copy
+
+                of the map that appeared with the London edition, showing the whole region from the
+
+                Atlantic to the Mississippi, based on materials furnished by Washington; the other
+
+                is a detail derived from the map accompanying Thomas Jefferson’s Notes on the State
+
+                of Virginia (1787), showing the frontier region through which Washington travelled,
+
+                between Cumberland (Md.) and Lake Erie. Of the two, the Jefferson map shows the
+
+                geography with somewhat greater accuracy. </p>
+
+        </head>
+
+
+
+        <body>
+
+            <title>THE JOURNAL OF Major George Washington, SENT BY THE Hon.ROBERT DINWIDDIE,Esq; His
+
+                Majesty’s Lieutenant-Governor, and Commander in Chief of VIRGINIA, TO THE COMMANDANT
+
+                OF THE FRENCH FORCES ON O H I O. TO WHICH ARE ADDED, THE GOVERNOR’s LETTER, AND A
+
+                TRANSLATION OF THE FRENCH OFFICER’S ANSWER. WILLIAMSBURG: Printed by WILLIAM HUNTER.
+
+                1754.</title>
+
+            <p n="6">I was commissioned and appointed by the Honourable Robert Dinwiddie, Esq;
+
+                Governor,&amp;c. of Virginia, to visit and deliver a Letter to the Commandant of the
+
+                French Forces on the Ohio, and set out on the in- tended Journey the same Day; the
+
+                next, Iarrived at Fredericksburg, and engaged Mr. Jacob Vanbraam, to be my French
+
+                Interpreter; and proceeded with him to Alex- andria, where we provided Necessaries ;
+
+                from thence we went to Winchester, and got Baggage, Horses, &amp;c. and from thence
+
+                we pursued the new Road to Wills-Creek, where we arrived the 14th of November.</p>
+
+
+
+
+
+            <p n="7">Here I engaged Mr. Gist to pilot us out, and also hired four others as
+
+                Servitors, Barnaby Currin, and John MacQuire, In- dian Traders, Henry Steward, and
+
+                William Jenkins, and in Company with those Persons, left the Inhabitants the Day
+
+                following.</p>
+
+            <p n="8">The excessive Rains and vast Quantity of Snow that had fallen, prevented our
+
+                reaching Mr. Frazier’s an Indian Trader, at the Mouth of Turtle-Creek, on
+
+                Monongahela, till Thursday the 22d. We were informed here, that Expresses were sent
+
+                a few Days ago to the Traders down the River, to acquaint them with the French
+
+                General’s Death, and the Return of the major Part of the French Army into Winter
+
+                Quarters.</p>
+
+            <p n="9"> The Waters were quite impassable, without swimming our Horses; which obliged
+
+                us to get the Loan of a Canoe from Frazier, and to send Barnaby Currin, and Henry
+
+                Steward, down Monongahela, with our Baggage, to meet us at the Forks of Ohio, about
+
+                10 Miles, to cross Aligany. </p>
+
+            <p n="10"> As I got down before the Canoe, I spent some Time in view- ing the Rivers,
+
+                and the Land in the Fork, which I think ex- tremely well situated for a Fort, as it
+
+                has the absolut Com- mand of both Rivers. The Land at the Point is 20 or 25 Feet
+
+                above the common Surface of the Water, and a considerable Bottom of flat,
+
+                well-timbered Land all around it, very conve- nient for Building : The Rivers are
+
+                each a Quarter of a Mile, or more, across, and run here very near at right Angles :
+
+                Alig- any bearing N. E. and Monongahela S. E. the former of these two is a very
+
+                rapid and swift running Water, the other deep and still, without any perceptible
+
+                Fall. </p>
+
+            <p n="11"> About two Miles from this, on the South East Side of the River, at the Place
+
+                where the Ohio Company intended to erect a Fort, lives Shingiss, king of the
+
+                Delawares; we call’d upon him, to invite him to Council at the Loggs-Town. </p>
+
+            <p n="12"> As I had taken a good deal of Notice Yesterday of the Situ- ation at the
+
+                Forks, my Curiosity led me to examine this more particularly, and I think it greatly
+
+                inferior, either for Defence or Advantages ; especially the latter ; for a Fort at
+
+                the Forks would be equally well situated on Ohio, and have the entire Command of
+
+                Monongahela, which runs up to our Settlements and is extremely well design’d for
+
+                Water Carriage, as it is of a deep still Nature ; besides, a Fort at the Fork might
+
+                be built at a much less Expence, than at the other Place.——— </p>
+
+            <p n="13"> Nature has well contrived the lower Place, for Water Defence; but the Hill
+
+                whereon it must stand being about a Quarter of a Mile in Length, and then descending
+
+                gradually on the Land Side, will render it difficult and very expensive, making a
+
+                sufficient Fortification there.—The whole Flat upon the Hill must be taken in, or
+
+                the Side next the Descent made extremely high ; or else the Hill cut away :
+
+                Otherwise, the En- emy may raise Batteries within that Distance without being
+
+                expos’d to a single Shot from the Fort. </p>
+
+            <p n="14"> Shingiss attended us to the Loggs-Town, where we arrived between Sun-setting
+
+                and Dark, the 25th Day after I left Wil- liamsburg: We travelled over some extreme
+
+                good, and bad Land, to get to this Place. — </p>
+
+            <p n="15"> As soon as I came into Town, I went to Monacatoocha (as the Half-King was out
+
+                at his hunting-Cabbin on little Beaver Creek, about 15 Miles off ) and inform’d him
+
+                by John Davi- son my Indian Interpreter, that I was sent a Messenger to the French
+
+                General; and was ordered to call upon the Sachems of the Six Nations, to acquaint
+
+                them with it.—I gave him a String of Wampum, and a Twist of Tobacco, and desired him
+
+                to send for the Half-King ; which he promised to do by a Run- ner in the Morning,
+
+                and for other Sachems.—I invited him and the other great Men present to my Tent,
+
+                where they stay’d about an Hour and return’d. </p>
+
+            <p n="16"> According to the best Observations I could make, Mr. Gist’s new Settlement
+
+                (which we pass’d by) bears about W. N. W. 70 Miles from Wills-Creek ; Shanapins, or
+
+                the Forks N. by W. or N. N. W. about 50 Miles from that ; and from thence to the
+
+                Loggs-Town, the Course is nearly West about 18 or 20 Miles ; so that the whole
+
+                Distance, as we went and computed it, is at least 135 or 140 Miles from our back
+
+                Inhabitants. </p>
+
+
+
+            <p n="17"> 25th, Came to Town four of ten Frenchmen that deserted from a Company at the
+
+                Cuscuscas, which lies at the Mouth of this River ; I got the following Account from
+
+                them. They were sent from New Orleans with 100 Men, and 8 Canoe Loads of Provisions
+
+                to this Place ; where they expected to have met the same Number of Men, from the
+
+                Forts this Side Lake Erie, to convey them and the Stores up, who were not arrived
+
+                when they ran off. </p>
+
+
+
+            <p n="18"> I enquired into the Situation of the French, on the Missi- sippi, their
+
+                Number, and what Forts they had built: They inform’d me, That there were four small
+
+                Forts between New- Orleans and the Black-Islands, garrison’d with about 30 or 40
+
+                Men, and a few small Pieces, in each : That at New-Orleans, which is near the Mouth
+
+                of the Missisippi, there are 35 Com- panies, of 40 Men each, with a pretty strong
+
+                Fort mount- ing 8 Carriage Guns; and at the Black-Islands there are sev- eral
+
+                Companies, and a Fort with 6 Guns. The Black-Islands are about 130 Leagues above the
+
+                Mouth of the Ohio, which is about 350 above New-Orleans : They also acquainted me,
+
+                that there was a small pallisado’d Fort on the Ohio, at the Mouth of the Obaish
+
+                about 60 Leagues from the Missisippi: The Obaish heads near the West End of Lake
+
+                Erie, and affords the Communication between the French on Missisippi and those on
+
+                the Lakes. These Deserters came up from the lower Shanoah Town with one Brown, an
+
+                Indian Trader, and were going to Philadelphia. </p>
+
+
+
+            <p n="19"> About 3 o’Clock this Evening the Half-King came to Town ; I went up and
+
+                invited him and Davison, privately, to my Tent, and desir’d him to relate some of
+
+                the Particulars of his Journey to the French Commandant, and Reception there ; and
+
+                to give me an Account of the Ways and Distance. He told me, that the nearest and
+
+                levellest Way was now impassable, by Reason of many large miry Savannas; that we
+
+                must be obliged to go by Venango, and should not get to the near Fort under 5 or 6
+
+                Night’s Sleep, good Travelling. When he went to the Fort, he said he was received in
+
+                a very stern Manner by the late Com- mander; Who ask’d him very abruptly, what he
+
+                had come about, and to declare his Business, which he said he did in the following
+
+                Speech. </p>
+
+            <p n="20"> Fathers, I am come to tell you your own Speeches; what your own Mouths have
+
+                declared. Fathers, You, in former Days, set a Silver Bason before us, wherein there
+
+                was the Leg of a Beaver, and desir’d of all Nations to come and eat of it ; to eat
+
+                in Peace and Plenty, and not to be churlish to one another ; and that if any such
+
+                Person should be found to be a Disturber, I here lay down by the Edge of the Dish a
+
+                Rod, which you must scourge them with ; and if I your Father, should get foolish, in
+
+                my old Days, I desire you may use it upon me as well as others. </p>
+
+            <p n="21"> Now Fathers, it is you that are the Disturbers in this Land, by coming and
+
+                building your Towns, and taking it away unknown to us, and by Force. </p>
+
+            <p n="22"> Fathers, We kindled a Fire a long Time ago, at a Place called Montreal, where
+
+                we desired you to stay, and not to come and in- trude upon our Land. I now desire
+
+                you may dispatch to that Place ; for be it known to you, Fathers, that this is our
+
+                Land, and not yours </p>
+
+            <p n="23"> Fathers, I desire you may hear me in Civilness ; if not, we must handle that
+
+                Rod which was laid down for the Use of the obstreper- ous. If you had come in a
+
+                peaceable Manner, like our Brothers the English, we should not have been against
+
+                your trading with us, as they do ; but to come, Fathers, and build great Houses upon
+
+                our Land, and to take it by Force, is what we cannot submit to. </p>
+
+            <p n="24"> Fathers, Both you and the English are white, we live in a Country between;
+
+                therefore the Land belongs to neither one nor t’other : But the Great Being above
+
+                allow’d it to be a Place of Res- idence for us ; so Fathers, I desire you to
+
+                withdraw, as I have done our Brothers the English ; for I will keep you at Arms
+
+                length : I lay this down as a Trial for both, to see which will have the great- est
+
+                Regard to it, and that Side we will stand by, and make equal Sharers with us. Our
+
+                Brothers the English have heard this, and I come now to tell it to you, for I am not
+
+                afraid to discharge you off this Land. </p>
+
+            <p n="25"> This he said was the Substance of what he said to the Gen- eral, who made
+
+                this Reply. 15 Miles asunder, and a large Waggon Road between ; they are both built
+
+                after the same Model, but different in the Size ; that on the Lake the largest; he
+
+                gave me a Plan of them, of his own drawing. Now my Child, I have heard your Speech,
+
+                you spoke first, but it is my Time to speak now. Where is my Wampum that you took
+
+                away, with the Marks of Towns in it? This Wampum I do not know, which you have
+
+                discharged me off the Land with ; but you need not put yourself to the Trouble of
+
+                speaking, for I will not hear you : I am not afraid of Flies, or Musquitos, for
+
+                Indians are such as those; I tell you, down that River I will go, and will build
+
+                upon it, according to my Command : If the River was block’d up, I have Forces
+
+                sufficient to burst it open, and tread under my Feet all that stand in Opposition,
+
+                together with their Alliances ; for my Force is as the Sand upon the Sea Shore:
+
+                Therefore, here is your Wampum, I fling it at you. Child, you talk foolish; you say
+
+                this Land belongs to you, but there is not the Black of my Nail yours : I saw that
+
+                Land sooner than you did, before the Shannoahs and you were at War : Lead was the
+
+                Man that went down, and took Pos- session of that River : It is my Land, and I will
+
+                have it, let who will stand up for, or say against it. I’ll buy and sell with the
+
+                Eng- lish, (mockingly). If People will be rul’d by me, they may expect Kindness, but
+
+                not else. </p>
+
+            <p n="26"> The Half-King told me he enquired of the General after two Englishmen that
+
+                were made Prisoners, and received this Answer. hild, You think it is a very great
+
+                Hardship that I made Pris- oners of those two People at Venango, don’t you concern
+
+                yourself with it, we took and carried them to Canada, to get Intelligence of what
+
+                the English were doing in Virginia. He informed me that they had built two Forts,
+
+                one on Lake Erie, and another on French-Creek, near a small Lake about 15 Miles
+
+                asunder, and a large Waggon Road between ; they are both built after the same Model,
+
+                but different in the Size ; that on the Lake the largest; he gave me a Plan of them,
+
+                of his own drawing.</p>
+
+            <p n="27"> The Indians enquired very particularly after their Brothers in Carolina Goal. </p>
+
+            <p n="28"> They also asked what sort of a Boy it was that was taken from the
+
+                South-Branch ; for they had, by some Indians, heard that a Party of French Indians
+
+                had carried a white Boy by the Cuscusca Town, towards the Lakes. 26th. We met in
+
+                Council at the Long-House, about 9 o’Clock, where I spoke to them as
+
+                    follows,<speech>Brothers, I have called you together in Council, by Order of
+
+                    your Brother the Governor of Virginia, to acquaint you that I am sent, with all
+
+                    possible Dispatch, to visit, and deliver a Let- ter to the French Commandant, of
+
+                    very great Importance to your Brothers the English ; and I dare say, to you
+
+                    their Friends and Allies. I was desired, Brothers, by your Brother the Governor,
+
+                    to call upon you, the Sachems of the Nations, to inform you of it, and to ask
+
+                    your Advice and Assistance to proceed the nearest and best Road to the French.
+
+                    You see, Brothers, I have got thus far on my Journey. His Honour likewise
+
+                    desired me to apply to you for some of your young Men, to conduct and provide
+
+                    Provisions for us on our Way, and be a Safeguard against those French Indians
+
+                    who have taken up the Hatchet against us. I have spoke this particularly to you,
+
+                    Brothers, because his Honour our Governor treats you as good Friends and Allies,
+
+                    and holds you in great Esteem. To confirm what I have said, I give you this
+
+                    String of Wampum </speech></p>
+
+            <p n="29"> After they had considered some Time on the above, the Half-King got up and
+
+                    spoke.<speech> Now, my Brothers, in Regard to what my Brother the Governor has
+
+                    desired of me, I return you this Answer. I rely upon you as a Brother ought to
+
+                    do, as you say we are Brothers and one People: We shall put Heart in Hand, and
+
+                    speak to our Fathers the French concerning the Speech they made to me, and you
+
+                    may depend that we will endeavour to be your Guard. Brother, as you have asked
+
+                    my Advice, I hope you will be ruled by it, and stay till I can provide a Company
+
+                    to go with you: The French Speech-Belt is not here, I have it to go for to my
+
+                    hunting Cabbin; likewise the People which I have ordered in, are not yet come,
+
+                    nor cannot till the third Night from this, till which Time, Brother, I must beg
+
+                    you to stay. I intend to send a Guard of Mingo’s, Shannoahs, and Del- awares,
+
+                    that our Brothers may see the Love and Loyalty we bear them.</speech>
+
+            </p>
+
+            <p n="30"> As I had Orders to make all possible Dispatch, and waiting here was very
+
+                contrary to my Inclination, I thanked him in the most suitable Manner I could, and
+
+                told him that my Busi- ness required the greatest Expedition, and would not admit of
+
+                that Delay : He was not well pleased that I should offer to go before the Time he
+
+                had appointed, and told me that he could not consent to our going without a Guard,
+
+                for Fear some Ac- cident should befal us, and draw a Reflection upon him; be- sides,
+
+                says he, this is a Matter of no small Moment, and must not be entered into without
+
+                due Consideration ; for now I in- tend to deliver up the French-Speech-Belt, and
+
+                make the Sha- noahs and Delawares do the same; and accordingly he gave Orders to
+
+                King Shingiss, who was present, to attend on Wednes- day Night with the Wampum, and
+
+                two Men of their Nation to be in Readiness to set out with us next Morning. As I
+
+                found it was impossible to get off without affronting them in the most egregious
+
+                Manner, I consented to stay. </p>
+
+            <p n="31"> I gave them back a String of Wampum that I met with at Mr. Frazier’ s, which
+
+                they had sent with a Speech to his Hon- our the Governor, to inform him, that three
+
+                Nations of French Indians, viz. Chippoways, Ottoways, and Orundacks, had taken up
+
+                the Hatchet against the English, and desired them to repeat it over again, which
+
+                they postponed doing till they met in full Council with the Shannoahs and Delaware
+
+                Chiefs. </p>
+
+            <p n="32">
+
+                <entry> 27th. Runners were dispatched very early for the Shanoah Chiefs, the
+
+                    Half-King set out himself to fetch the French- Speech-Belt from his Hunting
+
+                    Cabbin. </entry>
+
+                <entry> 28th. He returned this Evening, and came with Monoca- toocha, and two other
+
+                    Sachems to my Tent; and begged, (as they had complied with his Honour the
+
+                    Governor’s Request, in providing Men, &amp;c.) to know on what Business we were
+
+                    going to the French? this was a Question I all along expected, and had provided
+
+                    as satisfactory Answers to, as I could, and which allayed their Curiosity a
+
+                    little. </entry>
+
+            </p>
+
+            <p n="33"> Monocatoocha informed me, that an Indian from Venango brought News, a few
+
+                Days ago, that the French had called all the Mingos, Delawares, &amp;c. together at
+
+                that Place, and told them that they intended to have been down the River this Fall,
+
+                but the Waters were growing cold, and the Winter advancing, which obliged them to go
+
+                into Quarters : But they might assur- edly expect them in the Spring, with a far
+
+                greater Number; and desired that they might be quite passive, and not to inter-
+
+                meddle, unless they had a Mind to draw all their Force upon them, for that they
+
+                expected to fight the English three Years, (as they supposed there would be some
+
+                Attempts made to stop them) in which Time they should conquer, but if they should
+
+                prove equally strong, that they and the English, would join to cut them all off, and
+
+                divide the Land between them ; that tho’ they had lost their General, and some few
+
+                of their Soldiers, yet there were Men enough to reinforce them, and make them
+
+                Masters of the Ohio. </p>
+
+            <p n="34"> This Speech, he said, was delivered to them by one Captain Joncaire their
+
+                Interpreter in Chief, living at Venango, and a Man of Note in the Army.<entry>29th.
+
+                    The Half-King and Monocatoocha, came very early, and begged me to stay one Day
+
+                    more, for notwithstanding they had used all the Diligence in their Power, the
+
+                    Shanoah Chiefs had not brought the Wampum they ordered, but would
+
+                    certainlybeinTo-night;ifnot,theywoulddelaymenolon- ger, but would send it after
+
+                    us as soon as they arrived : When I found them so pressing in their Request, and
+
+                    knew that return- ing of Wampum was the abolishing of Agreements; and giv- ing
+
+                    this up, was shaking of all Dependence upon the French, I consented to stay, as
+
+                    I believed an Offence offered at this Cri- sis, might be attended with greater
+
+                    ill Consequence, than an- other Day’s Delay. They also informed me that Shingiss
+
+                    could not get in his Men, and was prevented from coming himself by his Wife’s
+
+                    Sickness, (I believe, by Fear of the French ) but that the Wampum of that Nation
+
+                    was lodged with Custaloga one of their Chiefs at Venango. In the Evening late
+
+                    they came again and acquainted me that the Shannoahs were not yet come, but it
+
+                    should not retard the Prosecution of our Journey. He delivered in my Hearing,
+
+                    the Speeches that were to be made to the French, by Jeskakake, one of their old
+
+                    Chiefs, which was giving up the Belt the late Com- mandant had asked for, and
+
+                    repeating near the same Speech he himself had done before. He also delivered a
+
+                    String of Wampum to this Chief, which was sent by King Shingiss, to be given to
+
+                    Custaloga, with Or- ders to repair to the French, and deliver up the Wampum.He
+
+                    likewise gave a very large String of black and white Wampum, which was to be
+
+                    sent up immediately to the Six Na- tions, if the French refused to quit the Land
+
+                    at this Warning ; which was the third and last Time, and was the Right of this
+
+                    Jeskakake to deliver.</entry>
+
+                <entry> 30th. Last Night the great Men assembled to their Council- House, to consult
+
+                    further about this Journey, and who were to go ; the Result of which was, that
+
+                    only three of their Chiefs, with one of their best Hunters, should be our
+
+                    Convoy: The Reason which they gave for not sending more, after what had been
+
+                    proposed at Council the 26th, was, that a greater Num- ber might give the French
+
+                    Suspicions of some bad Design, and cause them to be treated rudely: But I rather
+
+                    think they could not get their Hunters in.We set out about 9 o’Clock with the
+
+                    Half-King, Jeskakake, White Thunder, and the Hunter, and travelled on the Road
+
+                    to Venango, where we arrived the 4th of December, without any Thing remarkable
+
+                    happening but a continued Series of bad Weather. This is an old Indian Town,
+
+                    situated at the Mouth of French Creek on Ohio, and lies near N. about 60 Miles
+
+                    from the Loggs-Town, but more than 70 the Way we were obliged to go.We found the
+
+                    French Colours hoisted at a House which they drove Mr. John Frazier, an English
+
+                    Subject, from ; I im- mediately repaired to it, to know where the Commander re-
+
+                    sided: There were three Officers, one of whom, Capt. Jon- caire, inform’d me,
+
+                    that he had the Command of the Ohio, but that there was a General Officer at the
+
+                    near Fort, which he ad- vised me to for an Answer. He invited us to sup with
+
+                    them, and treated us with the greatest Complaisance.The Wine, as they dosed
+
+                    themselves pretty plentifully with it, soon banished the Restraint which at
+
+                    first appear’d in their Conversation, and gave a License to their Tongues to
+
+                    reveal their Sentiments more freely.They told me, That it was their absolute
+
+                    Design to take Possession of the Ohio, and by G— they would do it ; for that
+
+                    they were sensible the English could raise two Men for their one ; yet they
+
+                    knew, their Motions were too slow and dilatory to prevent any Undertaking of
+
+                    theirs. They pretend to have an</entry>
+
+            </p>
+
+
+
+
+
+        </body>
+
+
+
+
+
+    </div>
+
+
+
 
 
 
@@ -201,3 +700,4 @@
 
 
 </root>
+
