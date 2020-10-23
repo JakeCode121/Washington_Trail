@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 
-
-<?xml-model href="Washington_Trail.css" type="application/relax-ng-compact-syntax"?>
-<root>
+<journal>
 
     <div>
 
@@ -45,7 +43,7 @@
                 estimates of their strength and preparations for the following year’s
                 expeditions.</p>
 
-            <p n="3">When Washington arrived back in Williamsburg on January 16, 1754, Governor
+            <p n="3">When <name last='Washington'></name> arrived back in <place name='Williamsburg'></place> on <date month='January' date= '16' year='1754'></date>, Governor
                 Dinwiddie immediately asked him to prepare a written report for the House of
                 Burgesses. Dinwiddie then had this eport printed, and it became very popular
                 reading. The Virginia legislature was so pleased with his mission and his report
@@ -95,9 +93,9 @@
                 tended Journey the same Day; the next, Iarrived at <place>Fredericksburg,</place>
                 and engaged <name>Mr. Jacob Vanbraam,</name> to be my French Interpreter; and
                 proceeded with him to <place>Alex- andria,</place> where we provided Necessaries ;
-                from thence we went to <place>Winchester,</place> and got Baggage, Horses, &amp;c.
+                from thence we went to <place name='Winchester'>,</place> and got Baggage, Horses, &amp;c.
                 and from thence we pursued the new Road to <place>Wills-Creek,</place> where we
-                arrived the <date>14th of November.</date></p>
+                arrived the <date day='14' month='November'>.</date></p>
 
 
             <p n="7">Here I engaged <name>Mr. Gist</name> to pilot us out, and also hired four
@@ -113,7 +111,7 @@
                 major Part of the French Army into Winter Quarters.</p>
 
             <p n="9"> The Waters were quite impassable, without swimming our Horses; which obliged
-                us to get the Loan of a Canoe from <name>Frazier,</name> and to send <name>Barnaby
+                us to get the Loan of a Canoe from <name last='Frazier'>,</name> and to send <name>Barnaby
                     Currin,</name> and <name>Henry Steward,</name> down Monongahela, with our
                 Baggage, to meet us at the <place>Forks of Ohio,</place> about 10 Miles, to cross
                 Aligany. </p>
@@ -704,12 +702,12 @@
                     on a Promise, That nothing should hin- der them in the Morning </p>
             </entry>
             <entry>
-                <p n="66">16th, The French were not slack in their Inventions to keep the Indians
-                    this Day also ; but as they were obligated, accord- ing to Promise, to give the
-                    Present, they then endeavoured to try the Power of Liquor, which I doubt not
-                    would have pre- vailed at any other Time than this, but I urged and insisted
-                    with the King so closely upon his Word, that he refrained, and set off with us
-                    as he had engaged. </p>
+                <p n="66"><date/>16th,/date> The French were not slack in their Inventions to keep
+                    the Indians this Day also ; but as they were obligated, accord- ing to Promise,
+                    to give the Present, they then endeavoured to try the Power of Liquor, which I
+                    doubt not would have pre- vailed at any other Time than this, but I urged and
+                    insisted with the King so closely upon his Word, that he refrained, and set off
+                    with us as he had engaged. </p>
                 <p n="67">We had a tedious and very fatiguing Passage down the Creek, several Times
                     we had like to have been staved against Rocks, and many Times were obliged all
                     Hands to get out and remain in the Water Half an Hour or more, getting over the
@@ -723,8 +721,8 @@
                     less than 130 Miles, to follow the Meanders.</p>
             </entry>
             <entry>
-                <p n="68">23d. When I got Things ready to set off, I sent for the Half- King, to
-                    know whether he intended to go with us, or by Wa- ter, he told me that
+                <p n="68"><date>23d.</date> When I got Things ready to set off, I sent for the Half-
+                    King, to know whether he intended to go with us, or by Wa- ter, he told me that
                     White-Thunder had hurt himself much, and was sick and unable to walk, therefore
                     he was obliged to carry him down in a Canoe: As I found he intended to stay here
                     a Day or two, and knew that Monsieur Joncaire would employ every Scheme to set
@@ -827,4 +825,5 @@
 
         </body>
     </div>
-</root>
+
+</journal>
