@@ -7,50 +7,52 @@
 
         <head>
 
-            <intro><name>George Washington</name> The Journal of <name>Major George
-                    Washington</name>
+            <intro>
+                <person first="George" last="Washington"/>The Journal of <person rank="Major"
+                    first="George" last="Washington"/>
                 <year>(1754)</year></intro>
 
 
 
-            <p n="1"><date>In October of 1753,</date><person>George Washington,</person> a
-                21-year-old major in the Virginia militia, volunteered to carry a letter from the
-                    <person>governor of Virginia</person>to the<person> French commander</person> of
-                the forts recently built on the headwaters of the Ohio River in northwestern
-                    <place>Pennsylvania.</place> The French had recently expanded their military
-                operations from the Great Lakes into the<place> Ohio country,</place> and had spent
-                the <date>summer of 1753</date> building forts and roads along the Allegheny River,
-                with the design of linking their trade routes and sphere of influence down the Ohio
-                to the Mississippi. Virginia governor Robert Dinwiddie believed them to be in
-                violation of treaties and claims that made those territories part of Virginia and
-                Pennsylvania, as granted by the British Crown, and his letter to the<person> French
-                    commander</person> instructed him to cease, desist, and depart from those
-                regions. </p>
+            <p n="1">In <date month="October" year="1753,"/><person first="George" last="Washington"
+                    >,</person> a 21-year-old major in the Virginia militia, volunteered to carry a
+                letter from the <person>governor of Virginia</person>to the<person> French
+                    commander</person> of the forts recently built on the headwaters of the Ohio
+                River in northwestern <place>Pennsylvania.</place> The French had recently expanded
+                their military operations from the Great Lakes into the<place> Ohio country,</place>
+                and had spent the <date>summer of 1753</date> building forts and roads along the
+                    <place>Allegheny River,</place> with the design of linking their trade routes
+                and sphere of influence down the Ohio to the Mississippi. Virginia governor<person
+                    first="Robert" last="Dinwiddie"/> believed them to be in violation of treaties
+                and claims that made those territories part of Virginia and Pennsylvania, as granted
+                by the British Crown, and his letter to the<person> French commander</person>
+                instructed him to cease, desist, and depart from those regions. </p>
 
             <p n="2">
-                <person>Washington </person>left<place> Williamsburg, Virginia </place>on
-                    <date>October 31, 1753,</date> and completed the round trip of more than 1,000
-                miles by horse, foot, canoe, and raft in about ten weeks. He was accompanied by
-                    <person>Christopher Gist,</person> an explorer and surveyor employed by the Ohio
-                Company, by <person>acob Van Braam,</person>J a French Interpreter, four Indian
-                traders and baggage-men, and various Indian delegations and guards, including
-                Tanacharison, known as the “Half-King.” Washington accomplished far more than the
-                mere delivery of a letter: he practiced diplomacy to keep the Native leaders allied
-                to the English cause; he interviewed French deserters and reported P on the extent
-                of French military posts between New Orleans and the Great Lakes; he reconnoitered
-                the Forks of the Ohio with an eye to the proper site for building a fort; and he
+                <person last="Washington"/>left <place city="Williamsburg" colon="Virginia"/>on
+                    <date month="October" day="31th" year="1753"/>and completed the round trip of
+                more than 1,000 miles by horse, foot, canoe, and raft in about ten weeks. He was
+                accompanied by <person>Christopher Gist,</person> an explorer and surveyor employed
+                by the Ohio Company, by <person first="Jacob" last="Van Braam,"/>J a French
+                Interpreter, <people>four Indian traders and baggage-men, and various Indian
+                    delegations and guards,</people> including <person last="Tanacharison"/>, known
+                as the “Half-King.” <person last="Washington"/> accomplished far more than the mere
+                delivery of a letter: he practiced diplomacy to keep the Native leaders allied to
+                the English cause; he interviewed French deserters and reported P on the extent of
+                French military posts between New Orleans and the Great Lakes; he reconnoitered the
+                Forks of the Ohio with an eye to the proper site for building a fort; and he
                 inspected and reported on the construction of the new French forts and made
                 estimates of their strength and preparations for the following year’s
                 expeditions.</p>
 
-            <p n="3">When <name last='Washington'></name> arrived back in <place name='Williamsburg'></place> on <date month='January' date= '16' year='1754'></date>, Governor
-                Dinwiddie immediately asked him to prepare a written report for the House of
-                Burgesses. Dinwiddie then had this eport printed, and it became very popular
-                reading. The Virginia legislature was so pleased with his mission and his report
-                that they voted him a £50 reward. The Journal of Major George Washington was
-                reprinted in various colonial newspapers as far away as Boston, and a British
-                edition was issued in London later that same year, for which Washington sent
-                materials for the preparation of a map.</p>
+            <p n="3">When <name last="Washington"/> arrived back in <place name="Williamsburg"/> on
+                    <date month="January" date="16" year="1754"/>, Governor Dinwiddie immediately
+                asked him to prepare a written report for the House of Burgesses. Dinwiddie then had
+                this eport printed, and it became very popular reading. The Virginia legislature was
+                so pleased with his mission and his report that they voted him a £50 reward. The
+                Journal of Major George Washington was reprinted in various colonial newspapers as
+                far away as Boston, and a British edition was issued in London later that same year,
+                for which Washington sent materials for the preparation of a map.</p>
 
             <p n="4"> This online electronic text edition of the Journal is based on the first
                 American edition published at Williamsburg in February 1754. It includes some
@@ -61,11 +63,11 @@
 
             <p n="5">It is accompanied by 2 maps, attached as supplementary PDF files: one is a copy
                 of the map that appeared with the London edition, showing the whole region from the
-                Atlantic to the Mississippi, based on materials furnished by Washington; the other
-                is a detail derived from the map accompanying Thomas Jefferson’s Notes on the State
-                of Virginia (1787), showing the frontier region through which Washington travelled,
-                between Cumberland (Md.) and Lake Erie. Of the two, the Jefferson map shows the
-                geography with somewhat greater accuracy. </p>
+                    <place> Atlantic</place> to the <place>Mississippi,</place> based on materials
+                furnished by Washington; the other is a detail derived from the map accompanying
+                Thomas Jefferson’s Notes on the State of Virginia (1787), showing the frontier
+                region through which Washington travelled, between Cumberland (Md.) and Lake Erie.
+                Of the two, the Jefferson map shows the geography with somewhat greater accuracy. </p>
 
         </head>
 
@@ -75,12 +77,13 @@
 
     <div>
         <title>
-            <p n="6">THE JOURNAL OF Major <name>George Washington,</name> SENT BY THE
-                    <name>Hon.ROBERT DINWIDDIE,Esq; His Majesty’s Lieutenant-Governor,</name> and
-                    <name>Commander in Chief of VIRGINIA,</name> TO THE COMMANDANT OF THE FRENCH
-                FORCES ON O H I O. TO WHICH ARE ADDED, THE GOVERNOR’s LETTER, AND A TRANSLATION OF
-                THE FRENCH OFFICER’S ANSWER. <place>WILLIAMSBURG:</place> Printed by <name>WILLIAM
-                    HUNTER.</name>
+            <p n="6">THE JOURNAL OF<person ran="Major" first="George" last="Washington">,</person>
+                SENT BY THE <name>Hon.ROBERT DINWIDDIE,Esq; His Majesty’s
+                    Lieutenant-Governor,</name> and <name>Commander in Chief of VIRGINIA,</name> TO
+                THE COMMANDANT OF THE FRENCH FORCES ON O H I O. TO WHICH ARE ADDED, THE GOVERNOR’s
+                LETTER, AND A TRANSLATION OF THE FRENCH OFFICER’S ANSWER.
+                    <place>WILLIAMSBURG:</place> Printed by <person first="WILLIAM" last="HUNTER"
+                    >.</person>
                 <year>1754.</year></p>
         </title>
 
@@ -91,30 +94,31 @@
                     Governor,&amp;c. of Virginia,</name> to visit and deliver a Letter to the
                     <name>Commandant of the French Forces on the Ohio,</name> and set out on the in-
                 tended Journey the same Day; the next, Iarrived at <place>Fredericksburg,</place>
-                and engaged <name>Mr. Jacob Vanbraam,</name> to be my French Interpreter; and
-                proceeded with him to <place>Alex- andria,</place> where we provided Necessaries ;
-                from thence we went to <place name='Winchester'>,</place> and got Baggage, Horses, &amp;c.
-                and from thence we pursued the new Road to <place>Wills-Creek,</place> where we
-                arrived the <date day='14' month='November'>.</date></p>
+                and engaged Mr. <name first="Jacob" last="Van braam"/>, to be my French Interpreter;
+                and proceeded with him to <place>Alex- andria,</place> where we provided Necessaries
+                ; from thence we went to <place name="Winchester">,</place> and got Baggage, Horses,
+                &amp;c. and from thence we pursued the new Road to <place>Wills-Creek,</place> where
+                we arrived the <date day="14" month="November">.</date></p>
 
 
-            <p n="7">Here I engaged <name>Mr. Gist</name> to pilot us out, and also hired four
-                others as Servitors, <name>Barnaby Currin,</name> and <name>John MacQuire,</name>
-                In- dian Traders, <name>Henry Steward,</name> and <name>William Jenkins,</name> and
-                in Company with those Persons, left the Inhabitants the Day following.</p>
+            <p n="7">Here I engaged Mr. <person last="Gist"/> to pilot us out, and also hired four
+                others as Servitors,<person first="Barnaby" last="Currin"/>, and <person
+                    first="John" last="MacQuire"/>, In- dian Traders, <name>Henry Steward,</name>
+                and <name>William Jenkins,</name> and in Company with those Persons, left the
+                Inhabitants the Day following.</p>
 
             <p n="8">The excessive Rains and vast Quantity of Snow that had fallen, prevented our
-                reaching <name>Mr. Frazier’s</name> an Indian Trader, at the Mouth of
+                reaching Mr.<person last="Frazier’s"/> an Indian Trader, at the Mouth of
                     <place>Turtle-Creek,</place> on Monongahela, till <date>Thursday the 22d.</date>
                 We were informed here, that Expresses were sent a few Days ago to the Traders down
                 the River, to acquaint them with the French General’s Death, and the Return of the
                 major Part of the French Army into Winter Quarters.</p>
 
             <p n="9"> The Waters were quite impassable, without swimming our Horses; which obliged
-                us to get the Loan of a Canoe from <name last='Frazier'>,</name> and to send <name>Barnaby
-                    Currin,</name> and <name>Henry Steward,</name> down Monongahela, with our
-                Baggage, to meet us at the <place>Forks of Ohio,</place> about 10 Miles, to cross
-                Aligany. </p>
+                us to get the Loan of a Canoe from <name last="Frazier">,</name> and to send
+                    <name>Barnaby Currin,</name> and <name>Henry Steward,</name> down Monongahela,
+                with our Baggage, to meet us at the <place>Forks of Ohio,</place> about 10 Miles, to
+                cross Aligany. </p>
 
             <p n="10"> As I got down before the Canoe, I spent some Time in view- ing the Rivers,
                 and the<place> Land in the Fork,</place> which I think ex- tremely well situated for
@@ -148,34 +152,35 @@
                 Otherwise, the En- emy may raise Batteries within that Distance without being
                 expos’d to a single Shot from the Fort. </p>
 
-            <p n="14"> Shingiss attended us to the Loggs-Town, where we arrived between Sun-setting
-                and Dark, the 25th Day after I left <place>Wil- liamsburg:</place> We travelled over
-                some extreme good, and bad Land, to get to this Place. — </p>
+            <p n="14"> Shingiss attended us to the <place>Loggs-Town</place>, where we arrived
+                between Sun-setting and Dark, the 25th Day after I left <place>Wil-
+                    liamsburg:</place> We travelled over some extreme good, and bad Land, to get to
+                this Place. — </p>
 
             <p n="15"> As soon as I came into Town, I went to <name>Monacatoocha</name> (as the
                     <person> Half-King </person>was out at his hunting-Cabbin on <place>little
-                    Beaver Creek,</place> about 15 Miles off ) and inform’d him by <name>John Davi-
-                    son my Indian Interpreter,</name> that I was sent a Messenger to the French
-                General; and was ordered to call upon the Sachems of the Six Nations, to acquaint
-                them with it.—I gave him a String of Wampum, and a Twist of Tobacco, and desired him
-                to send for the Half-King ; which he promised to do by a Run- ner in the Morning,
-                and for other Sachems.—I invited him and the other great Men present to my Tent,
-                where they stay’d about an Hour and return’d. </p>
+                    Beaver Creek,</place> about 15 Miles off ) and inform’d him by <person
+                    first="John" last="Davi-
+                    son">my Indian
+                    Interpreter,</person> that I was sent a Messenger to the French General; and was
+                ordered to call upon the Sachems of the Six Nations, to acquaint them with it.—I
+                gave him a String of Wampum, and a Twist of Tobacco, and desired him to send for the
+                Half-King ; which he promised to do by a Run- ner in the Morning, and for other
+                Sachems.—I invited him and the other great Men present to my Tent, where they stay’d
+                about an Hour and return’d. </p>
 
-            <p n="16"> According to the best Observations I could make, <name>Mr. Gist’s</name>
-                <place>new Settlement (which we pass’d by) bears about W. N. W. 70 Miles from
-                    Wills-Creek ; Shanapins, or the Forks N. by W. or N. N. W. about 50 Miles from
-                    that ; and from thence to the Loggs-Town, the Course is nearly West about 18 or
-                    20 Miles ; so that the whole Distance, as we went and computed it, is at least
-                    135 or 140 Miles from our back Inhabitants.</place>
-            </p>
+            <p n="16"> According to the best Observations I could make, Mr.<person last="Gist’s"/>
+                <place>Wills-Creek</place> ; Shanapins, or the Forks N. by W. or N. N. W. about 50
+                Miles from that ; and from thence to the Loggs-Town, the Course is nearly West about
+                18 or 20 Miles ; so that the whole Distance, as we went and computed it, is at least
+                135 or 140 Miles from our back Inhabitants. </p>
 
 
 
             <entry>
                 <p n="17">
-                    <date>25th,</date> Came to Town four of ten Frenchmen that deserted from a
-                    Company at the Cuscuscas, which lies at the Mouth of this River ; I got the
+                    <date day="25th">,</date> Came to Town four of ten Frenchmen that deserted from
+                    a Company at the Cuscuscas, which lies at the Mouth of this River ; I got the
                     following Account from them. They were sent from <place>New Orleans</place> with
                     100 Men, and 8 Canoe Loads of Provisions to this Place ; where they expected to
                     have met the same Number of Men, from <place>the Forts this Side Lake
@@ -205,7 +210,7 @@
 
 
                 <p n="19">
-                    <time>About 3 o’Clock this Evening</time> the <person>Half-King </person>came to
+                    <time>About3 o’Clock this Evening</time> the <person last="Half-King"/>came to
                     Town ; I went up and invited him and Davison, privately, to my Tent, and desir’d
                     him to relate some of the Particulars of his Journey to the French Commandant,
                     and Reception there ; and to give me an Account of the Ways and Distance. He
@@ -682,7 +687,7 @@
                     Answer to his Honour the Gov- ernor’s Letter from the Commandant. </p>
             </entry>
             <entry>
-                <p n="65">15th, The Commandant ordered a plentiful Store of Liquor, Provision,to be
+                <p n="65"><date day="15th">,</date> The Commandant ordered a plentiful Store of Liquor, Provision,to be
                     put on Board our Canoe, and appeared to be extremely complaisant, though he was
                     exerting every Ar- tifice that he could invent to set our own Indians at
                     Variance with us, to prevent their going ’til after our Departure : Pres- ents,
@@ -778,14 +783,14 @@
                 <p n="71">The Cold was so extremely severe, that Mr. Gist, had all his Fingers, and
                     some of his Toes frozen, and the Water was shut up so hard, that we found no
                     Difficulty in getting off the Island, on the Ice, in the Morning, and went to
-                    Mr. Fra- zier’ s. We met here with 20 Warriors who were going to the Southward
-                    to War, but coming to a Place upon the Head of the great Cunnaway, where they
-                    found seven People killed and scalped, all but one Woman with very light Hair,
-                    they turned about and ran back, for Fear the Inhabitants should rise and take
-                    them as the Authors of the Murder : They re- port that the People were lying
-                    about the House, and some of them much torn and eaten by Hogs: By the Marks that
-                    were left, they say they were French Indians of the Ottaway Na- tion,that did
-                    it. </p>
+                        <place>Mr. Frazier’ s.</place> We met here with 20 Warriors who were going
+                    to the Southward to War, but coming to a Place upon the Head of the great
+                    Cunnaway, where they found seven People killed and scalped, all but one Woman
+                    with very light Hair, they turned about and ran back, for Fear the
+                        <people>Inhabitants</people>should rise and take them as the Authors of the
+                    Murder : They re- port that the People were lying about the House, and some of
+                    them much torn and eaten by Hogs: By the Marks that were left, they say they
+                    were French Indians of the Ottaway Na- tion,that did it. </p>
                 <p n="72">As we intended to take Horses here, and it required some Time to find
                     them, I went up about three Miles to the Mouth of Yaughyaughgane to visit Queen
                     Alliquippa, who had expressed great Concern that we passed her in going to the
@@ -793,10 +798,11 @@
                     was thought much the best Present of the two. </p>
             </entry>
             <entry>
-                <p n="73">Tuesday the 1st Day of January, we left Mr. Frazier’s House, and arrived
-                    at Mr. Gist’ s at Monongahela the 2d, where I bought Horse, Saddle,the 6th we
-                    met 17 Horses loaded with Materials and Stores for a Fort at the Forks of Ohio,
-                    and the Day after some Families going out to settle : This Day we arrived at
+                <p n="73"> Tuesday the <date day="1st Day" month="January">.</date> we left
+                        <place>Mr. Frazier’s House</place>, and arrived at <place>Mr. Gist’ s at
+                        Monongahela </place>the 2d, where I bought Horse, Saddle,the 6th we met 17
+                    Horses loaded with Materials and Stores for a Fort at the Forks of Ohio, and the
+                    Day after some Families going out to settle : This Day we arrived at
                     Wills-Creek, after as fatiguing a Journey as it is pos- sible to conceive,
                     rendered so by excessive bad Weather : From the first Day of December to the
                     15th, there was but one Day but it rained or snowed incessantly ; and throughout
@@ -805,7 +811,7 @@
                     left our Tent, which was some Screen from the Inclemency of it.</p>
             </entry>
             <entry>
-                <p n="74">On the <date>11th</date> I got to <place>Belvoir</place> where I stopped
+                <p n="74">On the <date day="11th"/> I got to <place>Belvoir</place> where I stopped
                     one Day to take necessary Rest, and then set out, and arrived
                         in<place>Williamsburg</place> the<date>16th,</date> and waited upon his
                     Honour the <person>Governor </person>with the Letter I had brought from the
