@@ -3,19 +3,19 @@
 
 <journal>
 
-    <div>
+    <section>
 
         <head>
 
             <intro>
-                <person first="George" last="Washington"/>The Journal of <person rank="Major"
+                <person first="George" last="Washington"/>The Journal of George Washington<person rank="Major"
                     first="George" last="Washington"/>
-                <year>(1754)</year></intro>
+                <year year='1754'>1754</year></intro>
 
 
 
             <p n="1">In <date month="October" year="1753,"/><person first="George" last="Washington"
-                    >,</person> a 21-year-old major in the Virginia militia, volunteered to carry a
+                    >George Washington,</person> a 21-year-old major in the Virginia militia, volunteered to carry a
                 letter from the <person>governor of Virginia</person>to the<person> French
                     commander</person> of the forts recently built on the headwaters of the Ohio
                 River in northwestern <place>Pennsylvania.</place> The French had recently expanded
@@ -24,7 +24,7 @@
                     <place>Allegheny River,</place> with the design of linking their trade routes
                 and sphere of influence down the Ohio to the Mississippi. Virginia governor<person
                     first="Robert" last="Dinwiddie"/> believed them to be in violation of treaties
-                and claims that made those territories part of Virginia and Pennsylvania, as granted
+                and claims that made those territories part of<place placeType='colony' >Virginia</place> and <place placeType= 'colony'>Pennsylvania, </place>as granted
                 by the British Crown, and his letter to the<person> French commander</person>
                 instructed him to cease, desist, and depart from those regions. </p>
 
@@ -36,7 +36,7 @@
                 by the Ohio Company, by <person first="Jacob" last="Van Braam,"/>J a French
                 Interpreter, <people>four Indian traders and baggage-men, and various Indian
                     delegations and guards,</people> including <person last="Tanacharison"/>, known
-                as the “Half-King.” <person last="Washington"/> accomplished far more than the mere
+                as the “Half-King.” <person last="Washington">Washington</person> accomplished far more than the mere
                 delivery of a letter: he practiced diplomacy to keep the Native leaders allied to
                 the English cause; he interviewed French deserters and reported P on the extent of
                 French military posts between New Orleans and the Great Lakes; he reconnoitered the
@@ -46,7 +46,7 @@
                 expeditions.</p>
 
             <p n="3">When <name last="Washington"/> arrived back in <place name="Williamsburg"/> on
-                    <date month="January" date="16" year="1754"/>, Governor Dinwiddie immediately
+                    <date month="January" date="16" year="1754">January 16th 1754</date>, Governor Dinwiddie immediately
                 asked him to prepare a written report for the House of Burgesses. Dinwiddie then had
                 this eport printed, and it became very popular reading. The Virginia legislature was
                 so pleased with his mission and his report that they voted him a £50 reward. The
@@ -73,9 +73,9 @@
 
 
 
-    </div>
+    </section>
 
-    <div>
+    <section>
         <title>
             <p n="6">THE JOURNAL OF<person ran="Major" first="George" last="Washington">,</person>
                 SENT BY THE <name>Hon.ROBERT DINWIDDIE,Esq; His Majesty’s
@@ -87,8 +87,8 @@
                 <year>1754.</year></p>
         </title>
 
-    </div>
-    <div>
+    </section>
+    <section>
         <body>
             <p n="6">I was commissioned and appointed by the <name>Honourable Robert Dinwiddie, Esq;
                     Governor,&amp;c. of Virginia,</name> to visit and deliver a Letter to the
@@ -322,7 +322,7 @@
                         have it to go for to my hunting Cabbin; likewise the People which I have
                         ordered in, are not yet come, nor cannot till the third Night from this,
                         till which Time, Brother, I must beg you to stay. I intend to send a Guard
-                        of Mingo’s, Shannoahs, and Del- awares, that our Brothers may see the Love
+                        of Mingo’s, Shannoahs, and Delawares, that our Brothers may see the Love
                         and Loyalty we bear them.</speech></p>
 
 
@@ -331,9 +331,9 @@
                     and told him that my Busi- ness required the greatest Expedition, and would not
                     admit of that Delay : He was not well pleased that I should offer to go before
                     the Time he had appointed, and told me that he could not consent to our going
-                    without a Guard, for Fear some Ac- cident should befal us, and draw a Reflection
+                    without a Guard, for Fear some Accident should befal us, and draw a Reflection
                     upon him; be- sides, says he, this is a Matter of no small Moment, and must not
-                    be entered into without due Consideration ; for now I in- tend to deliver up the
+                    be entered into without due Consideration ; for now I intend to deliver up the
                     French-Speech-Belt, and make the <place>Sha- noahs and Delawares</place> do the
                     same; and accordingly he gave Orders to <person>King Shingiss,</person> who was
                     present, to attend on <date>Wednes- day Night</date> with the Wampum, and two
@@ -448,7 +448,7 @@
             </entry>
             <entry>
                 <p n="39"><date>5th,</date> Rain’d excessively all Day, which prevented our Trav-
-                    elling. <person>Capt. Joncaire</person> sent for the <person>Half-King,</person>
+                    elling. <person rank="Captain" >Capt. Joncaire</person> sent for the <person>Half-King,</person>
                     as he had but just heard that he came with me: He affected to be much concern’d
                     that I did not make free to bring them in before; I excused it in the best
                     Manner I was capable ; and told him I did not think their Company agreeable, as
@@ -830,6 +830,6 @@
 
 
         </body>
-    </div>
+    </section>
 
 </journal>

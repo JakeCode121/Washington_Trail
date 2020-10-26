@@ -1,3 +1,15 @@
-datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start= journal
 
-element test { xsd:double }
+journal= element journal{section+}
+
+section= element section{head*, title*, body*}
+
+head= element head{intro*, p+}
+
+intro= element intro
+
+person= element {last*, first*}
+
+last= attribute {'Washington'*, 'Grist'*}
+
+first= attribute {'George'*}
