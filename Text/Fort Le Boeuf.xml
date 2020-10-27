@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <text>
     <div>
-        <introduction>>Fort Le Boeuf (often referred to as Fort de la Rivière au Bœuf) was a fort
-            established by the French during 1753 on a fork of French Creek (in the drainage area of
-            the River Ohio), in present-day Waterford, in northwest Pennsylvania. The fort was part
-            of a line that included Fort Presque Isle, Fort Machault, and Fort Duquesne. The fort
-            was located about 15 miles (24 km) from the shores of Lake Erie, on the banks of LeBoeuf
-            Creek, for which the fort was named. The French portaged supplies and trade goods from
-            Lake Erie overland to Fort Le Boeuf. From there they traveled by raft and canoe down
-            French Creek to the rivers Allegheny, Ohio and Mississippi. Today, the site of the fort
-            is occupied by the Fort LeBoeuf Museum, operated by the Fort LeBoeuf Historical
-            Society.</introduction>
+        <introduction>><place placeType="fort">Fort Le Boeuf</place> (often referred to as Fort de
+            la Rivière au Bœuf) was a fort established by the French during 1753 on a fork of French
+            Creek (in the drainage area of the River Ohio), in present-day Waterford, in northwest
+            Pennsylvania. The fort was part of a line that included <place placeType="fort">Fort
+                Presque Isle,</place>
+            <place>Fort Machault</place>, and <place placeType="fort"/>Fort
+            Duquesne. The fort was located about 15 miles (24 km) from the shores of Lake Erie, on
+            the banks of LeBoeuf Creek, for which the fort was named. The French portaged supplies
+            and trade goods from Lake Erie overland to<place placeType='fort'> Fort Le Boeuf</place>. From there they traveled by
+            raft and canoe down French Creek to the rivers Allegheny, Ohio and Mississippi. Today,
+            the site of the fort is occupied by the Fort LeBoeuf Museum, operated by the Fort
+            LeBoeuf Historical Society.</introduction>
     </div>
     <div>
         <history>History Captain Paul Marin de la Malgue began construction on 11 July 1753;[1]
@@ -29,12 +31,12 @@
             capture of Fort Niagara forced the French to abandon the Ohio Country.[3] </history>
     </div>
     <Washington> Washington's mission Robert Dinwiddie, the governor of Virginia, sent the
-        21-year-old George Washington to Fort Le Boeuf with seven escorts, in order to deliver a
+        21-year-old George Washington to<place placeType='fort'> Fort Le Boeuf</place> with seven escorts, in order to deliver a
         message to the French demanding that they leave the Ohio Country. Dinwiddie's initiative was
         in response to the French building forts in the Ohio Country. Washington took Christopher
         Gist along as his guide; during the trip, Gist saved the young Washington's life on two
-        separate occasions. Washington and Gist arrived at Fort Le Boeuf on 11 December 1753.
-        Jacques Legardeur de Saint-Pierre, commandant at Fort Le Boeuf, a tough veteran of the west,
+        separate occasions. Washington and Gist arrived at<place placeType='fort'> Fort Le Boeuf</place> on 11 December 1753.
+        Jacques Legardeur de Saint-Pierre, commandant at <place placeType='fort'>Fort Le Boeuf</place>, a tough veteran of the west,
         received Washington politely, but contemptuously rejected his blustering ultimatum.[4]
         French Forts, 1753 and 1754 Jacques Legardeur de Saint-Pierre gave Washington three days
         hospitality at the fort, and then gave Washington a letter for him to deliver to Dinwiddie.

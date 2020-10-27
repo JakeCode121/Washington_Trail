@@ -8,13 +8,19 @@ head= element head{intro*, p+}
 
 intro= element intro
 
-person= element person {last*, first*, rank*}
+person= element person
 
 
-rank= attribute {'Major'*, 'Chief'*, 'Governor'*, 'Captain'*}
+rank= attribute {'Major'*, 'Governor'*, 'Captain'*}
 
 last= attribute {'Washington'*, 'Grist'*}
 
-first= attribute {'George'*, 'Christopher'*}
+first= attribute {'George'+, 'Christopher'*,'Robert'+, 'Jacob'*,'Thomas'*,'Barnaby'*,'John'*,'WILLIAM'*}
 
 place=element place 
+
+placeType= attribute placeType {'river'+, 'city'+, 'colony'+,'ocean'*,'State'*,'lake'*, 'creek'*,'fort'+}
+
+p= element p 
+
+n= attribute {'n'+}
