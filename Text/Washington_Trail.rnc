@@ -8,8 +8,13 @@ head= element head{intro*, p+}
 
 intro= element intro
 
-person= element {last*, first*}
+person= element person {last*, first*, rank*}
+
+
+rank= attribute {'Major'*, 'Chief'*, 'Governor'*, 'Captain'*}
 
 last= attribute {'Washington'*, 'Grist'*}
 
-first= attribute {'George'*}
+first= attribute {'George'*, 'Christopher'*}
+
+place=element place 
