@@ -6,12 +6,19 @@ section= element section{head*, title*, body*}
 
 head= element head{intro*, p+}
 
+title= element title
+
+body= element body {p+, entry+, closing*}
+
+p= element p 
+
+
+
 intro= element intro
 
 person= element person
 
-
-rank= attribute {'Major'*, 'Governor'*, 'Captain'*}
+rank= attribute {'Major'*, 'Governor'*, 'Captain'*, 'General'*}
 
 last= attribute {'Washington'*, 'Grist'*}
 
@@ -19,8 +26,10 @@ first= attribute {'George'+, 'Christopher'*,'Robert'+, 'Jacob'*,'Thomas'*,'Barna
 
 place=element place 
 
-placeType= attribute placeType {'river'+, 'city'+, 'colony'+,'ocean'*,'State'*,'lake'*, 'creek'*,'fort'+}
+placeType= attribute placeType {'river'+, 'city'+, 'colony'+,'ocean'*,'State'*,'lake'*, 'creek'*,'fort'+, 'home'+}
 
-p= element p 
+entry=element entry
+
+
 
 n= attribute {'n'+}
