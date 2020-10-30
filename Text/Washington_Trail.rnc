@@ -6,19 +6,26 @@ section= element section{head*, title*, body*}
 
 head= element head{intro*, p+}
 
-title= element title
+title= element title {p*}
 
 body= element body {p+, entry+, closing*}
 
-p= element p 
-
+p= element p {n}
 
 
 intro= element intro
 
-person= element person
+person= element person {Honourable Robert Dinwiddie, Esq; Governor,&amp;c. of Virginia*,
+Commandant of the French Forces on the Ohio*, 
+Jacob Van Bramm*, Mr. Gist*, Barnaby Currin*, John MacQuire*, Henry Steward*, Half King+, 
+my Indian interpreter*, French General*, Half King*}
 
-rank= attribute {'Major'*, 'Governor'*, 'Captain'*, 'General'*}
+
+people= element people
+
+peopleType=attribute {'indians'+, 'soldiers'*}
+
+rank= attribute {'Major'+, 'Governor'+, 'Captain'+, 'General'*}
 
 last= attribute {'Washington'*, 'Grist'*}
 
@@ -29,7 +36,6 @@ place=element place
 placeType= attribute placeType {'river'+, 'city'+, 'colony'+,'ocean'*,'State'*,'lake'*, 'creek'*,'fort'+, 'home'+}
 
 entry=element entry
-
 
 
 n= attribute {'n'+}

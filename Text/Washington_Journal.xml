@@ -190,14 +190,14 @@
             <p n="15"> As soon as I came into Town, I went to <name rank="chief" last="Monacatoocha"
                     >Monacatoocha</name> (as the <person last="Tanacharison"> Half King </person>was
                 out at his hunting Cabbin on <place>little Beaver Creek,</place> about 15 Miles off
-                ) and inform’d him by <person first="John" last="Davis                    son">my
-                    Indian Interpreter,</person> that I was sent a Messenger to the<person
-                    rank="General"> French General</person>; and was ordered to call upon the
-                Sachems of the Six Nations, to acquaint them with it.—I gave him a String of Wampum,
-                and a Twist of Tobacco, and desired him to send for the <person last="Tanacharison"
-                    >Half King</person> ; which he promised to do by a Runsner in the Morning, and
-                for other Sachems.—I invited him and the other great Men present to my Tent, where
-                they stay’d about an Hour and return’d. </p>
+                ) and inform’d him by <person first="John" last="Davidson">my Indian Interpreter</person>,
+                   that I was sent a Messenger to the<person rank="General">
+                    French General</person>; and was ordered to call upon the Sachems of the Six
+                Nations, to acquaint them with it.—I gave him a String of Wampum, and a Twist of
+                Tobacco, and desired him to send for the <person last="Tanacharison">Half King</person> 
+                  ; which he promised to do by a Runsner in the Morning, and for
+                other Sachems.—I invited him and the other great Men present to my Tent, where they
+                stay’d about an Hour and return’d. </p>
 
             <p n="16"> According to the best Observations I could make, Mr.<place PlaceType="home"
                     >Grist's</place>
@@ -421,8 +421,9 @@
                     would be some Attempts made to stop them) in which Time they should conquer, but
                     if they should prove equally strong, that they and the English, would join to
                     cut them all off, and divide the Land between them ; that tho’ they had lost
-                    their General, and some few of their Soldiers, yet there were Men enough to
-                    reinforce them, and make them Masters of the Ohio. </p>
+                    their General, and some few of their <people peopleType="soldiers"
+                        >Soldiers</people>, yet there were Men enough to reinforce them, and make
+                    them Masters of the Ohio. </p>
 
                 <p n="36"> This Speech, he said, was delivered to them by one <person>Captain
                         Joncaire</person> their Interpreter in Chief, living at <place>Venango,
@@ -594,18 +595,19 @@
                     frustrate their Schemes, and hurry them on to execute their intended Design;
                     they accordingly pressed for Admittance this Evening, which at Length was
                     granted them, privately, with the Commander and one or two other Officers: The
-                        <person>Half King</person> told me, that he offer’d the Wampum to the
-                        <person>Commander,</person> who evaded taking it, and made many fair
-                    Promises of Love and Friendship; said he wanted to live in Peace, and trade
+                        <person last="Tanacharison">Half King</person> told me, that he offer’d the
+                    Wampum to the <person>Commander,</person> who evaded taking it, and made many
+                    fair Promises of Love and Friendship; said he wanted to live in Peace, and trade
                     amicably with them, as a Proof of which he would send some Goods immediately
-                    down to the<place> Loggs-Town </place> for them; but I rather think the Design
-                    of that is, to bring away all our straggling Traders they meet with, as I
-                    privately understood they intended to carry an Officer, with them; and what
-                    rather confirms this Opinion, I was enquiring of the Commander, by what
-                    Authority he had made Prisoners of several of our English Subjects ; he told me
-                    that the Country belong’d to them, that no Englishman had a Right to trade upon
-                    those Waters ; and that he had Orders to make every Person Prisoner that
-                    attempted it on the Ohio, or the Waters of it.</p>
+                    down to the<place PlaceType="city"> Loggs-Town </place> for them; but I rather
+                    think the Design of that is, to bring away all our straggling Traders they meet
+                    with, as I privately understood they intended to carry an Officer, with them;
+                    and what rather confirms this Opinion, I was enquiring of the Commander, by what
+                    Authority he had made Prisoners of several of our <people>English
+                        Subjects</people> ; he told me that the Country belong’d to them, that no
+                    Englishman had a Right to trade upon those Waters ; and that he had Orders to
+                    make every Person Prisoner that attempted it on the Ohio, or the Waters of
+                    it.</p>
                 <p n="52"> I enquir’d of<person rank="Captain" last="Riparti">Capt. Riparti
                     </person> about the Boy that was carried by, as it was done while the Command
                     devolved on him, bestween the Death of the late General, and the Arrival of the
