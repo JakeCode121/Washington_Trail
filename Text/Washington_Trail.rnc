@@ -27,7 +27,7 @@ peopleType=attribute {'indians'+, 'soldiers'*}
 
 rank= attribute {'Major'+, 'Governor'+, 'Captain'+, 'General'*}
 
-last= attribute {'Washington'*, 'Grist'*}
+last= attribute {'Washington'*, 'Gist'*}
 
 first= attribute {'George'+, 'Christopher'*,'Robert'+, 'Jacob'*,'Thomas'*,'Barnaby'*,'John'*,'WILLIAM'*}
 
