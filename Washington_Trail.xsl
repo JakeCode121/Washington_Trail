@@ -37,12 +37,12 @@
         
         <li>    <xsl:apply-templates/></li>
         
-        <xsl:template>
-       <!-- <xsl:template match="place[@PlaceType ='river']">
+        </xsl:template>
+       <xsl:template match="place[@PlaceType ='river']">
             
             <li>    <xsl:apply-templates/></li>  
         
-    </xsl:template>-->
+    </xsl:template>
 
             <xsl:template match="person">
                 
