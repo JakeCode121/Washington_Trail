@@ -31,6 +31,11 @@
         
         <li>    <xsl:apply-templates/></li>
         
+        <xsl:template>
+        <xsl:template match="place[@PlaceType ='river']">
+            
+            <li>    <xsl:apply-templates/></li>  
+        
     </xsl:template>
 
 
