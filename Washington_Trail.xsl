@@ -22,6 +22,12 @@
                     <xsl:apply-templates select="descendant::place[@PlaceType='city']"/>
                 </ul> 
                 
+                <h2>People in Washington's Journal</h2>
+                <ul>
+                    <xsl:apply-templates select="descendant::person"/>
+                </ul>
+                
+                
             </body>
             
         </html>
@@ -32,12 +38,16 @@
         <li>    <xsl:apply-templates/></li>
         
         <xsl:template>
-        <xsl:template match="place[@PlaceType ='river']">
+       <!-- <xsl:template match="place[@PlaceType ='river']">
             
             <li>    <xsl:apply-templates/></li>  
         
-    </xsl:template>
+    </xsl:template>-->
 
-
+            <xsl:template match="person">
+                
+                <li>    <xsl:apply-templates/></li>
+                
+                </xsl:template>
 
 </xsl:stylesheet>
