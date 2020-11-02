@@ -19,7 +19,7 @@
                 <h1> Locations of Washington's Stays</h1>
                 <h2> cities </h2>
                 <ul>
-                    <xsl:apply-templates select="descendant::place[@placeType='city']"/>
+                    <xsl:apply-templates select="descendant::place[@PlaceType='city']"/>
                 </ul> 
                 
             </body>
@@ -27,9 +27,9 @@
         </html>
     </xsl:template>
 
-    <xsl:template match="place[@placeType ='city']">
+    <xsl:template match="place[@PlaceType ='city']">
         
-        <li>    <xsl:value-of select= "@text"/></li>
+        <li>    <xsl:apply-templates/></li>
         
     </xsl:template>
 
