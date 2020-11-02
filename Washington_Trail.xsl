@@ -17,19 +17,20 @@
             <body>
 
                 <h1> Locations of Washington's Stays</h1>
-                <h2> cities </h2>
+                <h2> Cities </h2>
                 <ul>
-                    <xsl:apply-templates select="descendant::place[@PlaceType='city']"/>
+                    <xsl:apply-templates select="descendant::place[@placeType='city']"/>
                 </ul> 
                 
                 <h2>People in Washington's Journal</h2>
+                
                 <ul>
                     <xsl:apply-templates select="descendant::person"/>
                 </ul>
                 
                 <h2> Rivers in Washington's Journal</h2>
                 <u1>
-                    <xsl:apply-templates> select="descendant::river"/>
+                    <xsl:apply-templates select="descendant:: place[@placeType='river']"/>
                     </u1>
                 
                 
@@ -38,12 +39,12 @@
         </html>
     </xsl:template>
 
-    <xsl:template match="place[@PlaceType ='city']">
+    <xsl:template match="place[@placeType ='city']">
         
         <li>    <xsl:apply-templates/></li>
         
         </xsl:template>
-       <xsl:template match="place[@PlaceType ='river']">
+       <xsl:template match="place[@placeType ='river']">
             
             <li>    <xsl:apply-templates/></li>  
         
