@@ -27,6 +27,11 @@
                     <xsl:apply-templates select="descendant::person"/>
                 </ul>
                 
+                <h2> Rivers in Washington's Journal</h2>
+                <u1>
+                    <xsl:apply-templates> select="descendant::river"/>
+                    </u1>
+                
                 
             </body>
             
