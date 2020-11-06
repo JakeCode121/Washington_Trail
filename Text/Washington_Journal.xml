@@ -250,7 +250,7 @@
                     and Reception there ; and to give me an Account of the Ways and Distance. He
                     told me, that the nearest and levellest Way was now impassable, by Reason of
                     many large miry Savannas; that we must be obliged to go by
-                        <place>Venango,</place> and should not get to the near Fort under 5 or 6
+                        <place PlaceType="city">Venango,</place> and should not get to the near Fort under 5 or 6
                     Night’s Sleep, good Travelling. When he went to the Fort, he said he was
                     received in a very stern Manner by the late Commander; Who ask’d him very
                     abruptly, what he had come about, and to declare his Business, which he said he
@@ -374,7 +374,7 @@
                     be entered into without due Consideration ; for now I intend to deliver up the
                     French-Speech-Belt, and make the <people peopleType="Indians">Shasnoahs and
                         Delawares</people> do the same; and accordingly he gave Orders to
-                        <person>King Shingiss,</person> who was present, to attend on
+                        <person last="Shingiss">King Shingiss,</person> who was present, to attend on
                         <date>Wednessday Night</date> with the Wampum, and two Men of their Nation
                     to be in Readiness to set out with us next Morning. As I found it was impossible
                     to get off without affronting them in the most egregious Manner, I consented to
@@ -402,7 +402,7 @@
             <entry>
                 <p n="34">
                     <date month="October" day="28" year="1753">28th.</date> He returned this
-                    Evening, and came with <person>Monocas toocha,</person> and two other Sachems to
+                    Evening, and came with <person last="toocha" first="Monocas">Monocas toocha,</person> and two other Sachems to
                     my Tent; and begged, (as they had complied with his Honour the Governor’s
                     Request, in providing Men, &amp;c.) to know on what Business we were going to
                     the French? this was a Question I all along expected, and had provided as
@@ -724,14 +724,14 @@
                     hold of one of the Raft Logs ; notwithstanding all our Efforts we could not get
                     the Raft to either Shore, but were obliged, as we were near an Island, to quit
                     our Raft and make to it. </p>
-                <p n="64">I enquir’d of Capt. Riparti about the Boy that was carried by, as it was
+                <p n="64">I enquir’d of <person rank="Captain" last="Riparti">Capt. Riparti</person> about the Boy that was carried by, as it was
                     done while the Command devolved on him, bestween the Death of the late General,
                     and the Arrival of the present; he acknowledged, that a Boy had been carried
                     past, and that the Indians had two or three white Men’s Scalps (I was told by
                     some of the Indians at Venango Eight) but prestended to have forgot the Name of
                     the Place that the Boy came from, and all the Particulars, though he question’d
                     him for some Hours, as they were carrying him past: I likewise ensquired what
-                    they had done with John Trotter and James MacsClocklan, two Pensylvania Traders,
+                    they had done with <person last="Trotter" first="">John Trotter</person> and <person last="MascClocklan" first="James"></person>James MacsClocklan, two Pensylvania Traders,
                     whom they had taken, with all their Goods : They told me, that they had been
                     sent to Canada, but were now returned Home. This Evening I received an Answer to
                     his Honour the Govsernor’s Letter from the Commandant. </p>
@@ -746,7 +746,7 @@
                     as I did in this Affair ; I saw that every Stratsagem that the most fruitful
                     Brain could invent, was practised, to win the Half King to their Interest, and
                     that leaving Him here was giving them the Opportunity they aimed at. —— I went
-                    to the Half King, and press’d him in the strongest Terms to go : He told me the
+                    to the <person last="Tanacharison">Half King</person>, and press’d him in the strongest Terms to go : He told me the
                     Commandant would not discharge him ’til the Morning. I then went to the
                     Commandant, and desired him to do their Business, and complain’d of ill
                     Treatment ; for keeping them, as they were Part of my Company, was detainsing me
@@ -770,7 +770,7 @@
                     Shoals ; at one Place the Ice had lodged and made it impasssable by Water;
                     therefore we were obliged to carry our Canoe across a Neck of Land, a Quarter of
                     a Mile over. We did not reach <place PlaceType="fort">Venango</place>, till the
-                    <date>22d</date>, where we met with our Horses. by a deep Snow, continually freezing ; and as
+                    <date month="December" day="22" year="1754">22d</date>, where we met with our Horses. by a deep Snow, continually freezing ; and as
                     I was uneasy to get back, to make Report of my Proceedings to his Honour the
                     Governor, I determined to prosecute my Journey the nearest Way through the
                     Woods, on Foot. This Creek is extremely crooked, I dare say the Distance between

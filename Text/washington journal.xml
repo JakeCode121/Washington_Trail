@@ -101,7 +101,7 @@
                 we arrived the <date day="14" month="November" year="1753"> 14th of November.</date></p>
 
 
-            <p n="7">Here I engaged Mr. <person last="Gist"/> to pilot us out, and also hired four
+            <p n="7">Here I engaged<person last="Gist"></person> Mr Gist to pilot us out, and also hired four
                 others as Servitors,<person first="Barnaby" last="Currin"/>, and <person
                     first="John" last="MacQuire"/>, In- dian Traders, <name>Henry Steward,</name>
                 and <name>William Jenkins,</name> and in Company with those Persons, left the
