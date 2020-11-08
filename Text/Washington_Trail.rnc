@@ -15,7 +15,7 @@ p= element p {n}
 
 intro= element intro
 
-person= element person {Honourable Robert Dinwiddie, Esq; Governor,&amp;c. of Virginia*,
+person= element person {Honourable Robert Dinwiddie*, Esq; Governor,&amp;c. of Virginia*,
 Commandant of the French Forces on the Ohio*, 
 Jacob Van Bramm*, Mr. Gist*, Barnaby Currin*, John MacQuire*, Henry Steward*, Half King+, 
 my Indian interpreter*, French General*, Half King*}
@@ -23,17 +23,20 @@ my Indian interpreter*, French General*, Half King*}
 
 people= element people
 
-peopleType=attribute {'indians'+, 'soldiers'*}
+peopleType=attribute peopleType {'indians'+, 'soldiers'*}
 
-rank= attribute {'Major'+, 'Governor'+, 'Captain'+, 'General'*}
+rank= attribute rank {'Major'+, 'Governor'+, 'Captain'+, 'General'*}
 
-last= attribute {'Washington'*, 'Gist'*}
+last= attribute {'Washington'*, 'Gist'*, 'Dinwidie'*, 'Van Braam'*, 'Tanacharison'*,
+'Jefferson'*,'HUNTER'*,'Currin'*, 'MacQuire'*, 'Shingiss'*, 'Frazier'*, 
+'toocha'*, 'Jonscaire'*, 'Jonscaire'*, 'Riparti'*, 'Trotter'*, 'MasClocklan'*, 'Dinwidde'*}
 
 first= attribute {'George'+, 'Christopher'*,'Robert'+, 'Jacob'*,'Thomas'*,'Barnaby'*,'John'*,'WILLIAM'*}
 
 place=element place 
 
-placeType= attribute placeType {'river'+, 'city'+, 'colony'+,'ocean'*,'State'*,'lake'*, 'creek'*,'fort'+, 'home'+}
+placeType= attribute placeType {'river'+, 'city'+, 'colony'+,'ocean'*,
+'State'*,'lake'*, 'creek'*,'fort'+, 'home'+}
 
 entry=element entry
 
