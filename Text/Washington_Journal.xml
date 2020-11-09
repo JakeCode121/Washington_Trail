@@ -249,9 +249,9 @@
                     him to relate some of the Particulars of his Journey to the French Commandant,
                     and Reception there ; and to give me an Account of the Ways and Distance. He
                     told me, that the nearest and levellest Way was now impassable, by Reason of
-                    many large miry Savannas; that we must be obliged to go by
-                        <place PlaceType="city">Venango,</place> and should not get to the near Fort under 5 or 6
-                    Night’s Sleep, good Travelling. When he went to the Fort, he said he was
+                    many large miry Savannas; that we must be obliged to go by <place
+                        PlaceType="city">Venango,</place> and should not get to the near Fort under
+                    5 or 6 Night’s Sleep, good Travelling. When he went to the Fort, he said he was
                     received in a very stern Manner by the late Commander; Who ask’d him very
                     abruptly, what he had come about, and to declare his Business, which he said he
                     did in the following Speech. </p>
@@ -373,8 +373,8 @@
                     upon him; bessides, says he, this is a Matter of no small Moment, and must not
                     be entered into without due Consideration ; for now I intend to deliver up the
                     French-Speech-Belt, and make the <people peopleType="Indians">Shasnoahs and
-                        Delawares</people> do the same; and accordingly he gave Orders to
-                        <person last="Shingiss">King Shingiss,</person> who was present, to attend on
+                        Delawares</people> do the same; and accordingly he gave Orders to <person
+                        last="Shingiss">King Shingiss,</person> who was present, to attend on
                         <date>Wednessday Night</date> with the Wampum, and two Men of their Nation
                     to be in Readiness to set out with us next Morning. As I found it was impossible
                     to get off without affronting them in the most egregious Manner, I consented to
@@ -383,9 +383,11 @@
                 <p n="31"> I gave them back a String of Wampum that I met with at <person
                         last="Frazier">Mr. Frazier’ s,</person> which they had sent with a Speech to
                     his Honsour the Governor, to inform him, that three Nations of French Indians,
-                    viz. Chippoways, Ottoways, and Orundacks, had taken up the Hatchet against the
-                    English, and desired them to repeat it over again, which they postponed doing
-                    till they met in full Council with the Shannoahs and Delaware Chiefs. </p>
+                    viz. <people peopleType="Indians">Chippoways</people>, <people
+                        peopleType="Indians">Ottoways</people>, and <people peopleType="Indians"
+                        >Orundacks</people>, had taken up the Hatchet against the English, and
+                    desired them to repeat it over again, which they postponed doing till they met
+                    in full Council with the Shannoahs and Delaware Chiefs. </p>
 
             </entry>
 
@@ -402,11 +404,12 @@
             <entry>
                 <p n="34">
                     <date month="October" day="28" year="1753">28th.</date> He returned this
-                    Evening, and came with <person last="toocha" first="Monocas">Monocas toocha,</person> and two other Sachems to
-                    my Tent; and begged, (as they had complied with his Honour the Governor’s
-                    Request, in providing Men, &amp;c.) to know on what Business we were going to
-                    the French? this was a Question I all along expected, and had provided as
-                    satisfactory Answers to, as I could, and which allayed their Curiosity a little. </p>
+                    Evening, and came with <person last="toocha" first="Monocas">Monocas
+                        toocha,</person> and two other Sachems to my Tent; and begged, (as they had
+                    complied with his Honour the Governor’s Request, in providing Men, &amp;c.) to
+                    know on what Business we were going to the French? this was a Question I all
+                    along expected, and had provided as satisfactory Answers to, as I could, and
+                    which allayed their Curiosity a little. </p>
 
 
 
@@ -426,38 +429,40 @@
                     cut them all off, and divide the Land between them ; that tho’ they had lost
                     their General, and some few of their <people peopleType="soldiers"
                         >Soldiers</people>, yet there were Men enough to reinforce them, and make
-                    them Masters of the Ohio. </p>
+                    them Masters of the <place placeType="region">Ohio</place>. </p>
 
-                <p n="36"> This Speech, he said, was delivered to them by one <person>Captain
-                        Joncaire</person> their Interpreter in Chief, living at <place>Venango,
-                    </place>and a Man of Note in the Army. </p>
+                <p n="36"> This Speech, he said, was delivered to them by one <person rank="Captain"
+                        last="Joncaire">Captain Joncaire</person> their Interpreter in Chief, living
+                    at <place>Venango, </place>and a Man of Note in the Army. </p>
             </entry>
 
 
             <entry><p n="37"/><date month="October" day="29" year="1753">29th.</date>
                 <people peopleType="Indians">The Half King and Monocatoocha,</people> came very
                 early, and begged me to stay one Day more, for notwithstanding they had used all the
-                Diligence in their Power, the Shanoah Chiefs had not brought the Wampum they
-                ordered, but would certainlybeinTo-night;ifnot,theywoulddelaymenolonsger, but would
-                send it after us as soon as they arrived : When I found them so pressing in their
-                Request, and knew that returnsing of Wampum was the abolishing of Agreements; and
-                givsing this up, was shaking of all Dependence upon the French, I consented to stay,
-                as I believed an Offence offered at this Crissis, might be attended with greater ill
-                Consequence, than ansother Day’s Delay. They also informed me that
-                    <person>Shingiss</person> could not get in his Men, and was prevented from
-                coming himself by his Wife’s Sickness, (I believe, by Fear of the French ) but that
-                the Wampum of that Nation was lodged with <person>Custaloga</person> one of their
-                Chiefs at <place>Venango.</place> In the Evening late they came again and acquainted
-                me that the Shannoahs were not yet come, but it should not retard the Prosecution of
-                our Journey. He delivered in my Hearing, the Speeches that were to be made to the
-                French, by <person>Jeskakake, one of their old Chiefs,</person> which was giving up
-                the Belt the late Comsmandant had asked for, and repeating near the same Speech he
-                himself had done before. He also delivered a String of Wampum to this Chief, which
-                was sent by King Shingiss, to be given to <person>Custaloga,</person> with Orsders
-                to repair to the French, and deliver up the Wampum.He likewise gave a very large
-                String of black and white Wampum, which was to be sent up immediately to the Six Nas
-                tions, if the French refused to quit the Land at this Warning ; which was the third
-                and last Time, and was the Right of this Jeskakake to deliver.</entry>
+                Diligence in their Power, the <people peopleType="Indians">Shanoah Chiefs
+                </people>had not brought the Wampum they ordered, but would
+                certainlybeinTo-night;ifnot,theywoulddelaymenolonsger, but would send it after us as
+                soon as they arrived : When I found them so pressing in their Request, and knew that
+                returnsing of Wampum was the abolishing of Agreements; and givsing this up, was
+                shaking of all Dependence upon the French, I consented to stay, as I believed an
+                Offence offered at this Crissis, might be attended with greater ill Consequence,
+                than ansother Day’s Delay. They also informed me that <person first="Shingiss"
+                    >Shingiss</person> could not get in his Men, and was prevented from coming
+                himself by his Wife’s Sickness, (I believe, by Fear of the French ) but that the
+                Wampum of that Nation was lodged with <person last="Cusaloga">Custaloga</person> one
+                of their Chiefs at <place>Venango.</place> In the Evening late they came again and
+                acquainted me that the Shannoahs were not yet come, but it should not retard the
+                Prosecution of our Journey. He delivered in my Hearing, the Speeches that were to be
+                made to the French, by <person first="Jeskake">Jeskakake, one of their old
+                    Chiefs,</person> which was giving up the Belt the late Comsmandant had asked
+                for, and repeating near the same Speech he himself had done before. He also
+                delivered a String of Wampum to this Chief, which was sent by King Shingiss, to be
+                given to <person last="Custaloga">Custaloga,</person> with Orsders to repair to the
+                French, and deliver up the Wampum.He likewise gave a very large String of black and
+                white Wampum, which was to be sent up immediately to the Six Nas tions, if the
+                French refused to quit the Land at this Warning ; which was the third and last Time,
+                and was the Right of this Jeskakake to deliver.</entry>
             <entry>
                 <p n="38"><date month="October" day="30" year="1753"> 30th.</date> Last Night the
                     great Men assembled to their Councils House, to consult further about this
@@ -469,43 +474,45 @@
                     be treated rudely: But I rather think they could not get their Hunters in.We set
                     out about <time>9 o’Clock</time> with the <people peopleType="Indians">Half
                         King, Jeskakake, White Thunder, and the Hunter,</people> and travelled on
-                    the Road to <place>Venango,</place> where we arrived the <date>4th of
-                        December,</date> without any Thing remarkable happening but a continued
-                    Series of bad Weather. This is <place>an old Indian Town, situated at the Mouth
-                        of <place placeType="river">French Creek</place> on Ohio, and lies near N.
-                        about 60 Miles from the Loggs-Town, but more than 70 the Way we were obliged
-                        to go.</place>We found the French Colours hoisted at a House which they
-                    drove <person first="John" last="Frazier">Mr. John Frazier</person>, an English
-                    Subject, from ; I imsmediately repaired to it, to know where the Commander
-                    ressided: There were three Officers, one of whom, <person rank="Captain"
-                        last="Jonscaire">Capt. Jonscaire,</person> inform’d me, that he had the
-                    Command of the Ohio, but that there was a General Officer at the near Fort,
-                    which he adsvised me to for an Answer. He invited us to sup with them, and
-                    treated us with the greatest Complaisance.The Wine, as they dosed themselves
-                    pretty plentifully with it, soon banished the Restraint which at first appear’d
-                    in their Conversation, and gave a License to their Tongues to reveal their
-                    Sentiments more freely.They told me, That it was their absolute Design to take
-                    Possession of the Ohio, and by G— they would do it ; for that they were sensible
-                    the English could raise two Men for their one ; yet they knew, their Motions
-                    were too slow and dilatory to prevent any Undertaking of theirs. They pretend to
-                    have an</p>
+                    the Road to <place placeType="fort">Venango,</place> where we arrived the <date
+                        month="December" day="4" year="1753">4th of December,</date> without any
+                    Thing remarkable happening but a continued Series of bad Weather. This is
+                        <place>an old Indian Town, situated at the Mouth of <place placeType="river"
+                            >French Creek</place> on Ohio, and lies near N. about 60 Miles from the
+                            <place placeType="city">Loggs-Town, but more than 70 the Way we were
+                            obliged to go.</place>We found the French Colours hoisted at a House
+                        which they drove <person first="John" last="Frazier">Mr. John
+                            Frazier</person>, an English Subject, from ; I imsmediately repaired to
+                        it, to know where the Commander ressided: There were three Officers, one of
+                        whom, <person rank="Captain" last="Jonscaire">Capt. Jonscaire,</person>
+                        inform’d me, that he had the Command of the <place placeType="region"
+                            >Ohio</place>, but that there was a General Officer at the near Fort,
+                        which he adsvised me to for an Answer. He invited us to sup with them, and
+                        treated us with the greatest Complaisance.The Wine, as they dosed themselves
+                        pretty plentifully with it, soon banished the Restraint which at first
+                        appear’d in their Conversation, and gave a License to their Tongues to
+                        reveal their Sentiments more freely.They told me, That it was their absolute
+                        Design to take Possession of the Ohio, and by G— they would do it ; for that
+                        they were sensible the English could raise two Men for their one ; yet they
+                        knew, their Motions were too slow and dilatory to prevent any Undertaking of
+                        theirs. </place></p>
             </entry>
             <entry>
                 <p n="39"><date month="November" day="5" year="1753">5th,</date> Rain’d excessively
                     all Day, which prevented our Travselling. <person rank="Captain">Capt.
-                        Joncaire</person> sent for the <person>Half King,</person> as he had but
-                    just heard that he came with me: He affected to be much concern’d that I did not
-                    make free to bring them in before; I excused it in the best Manner I was capable
-                    ; and told him I did not think their Company agreeable, as I had heard him say a
-                    good deal in Dispraise of Indians in general ; but another Motive prevented me
-                    from bringing them into his Company ; I knew he was Interpreter, and a Person of
-                    very great Influence among the Indians, and had lately used all possible Means
-                    to draw them over to their Interest; therefore I was desirous of giving no
-                    Opportunity that could be avoided.When they came in, there was great Pleasure
-                    express’d at seeing them ;` he wonder’d how they could be so near without coming
-                    to visit him, made several trifling Presents, and applied Liquor so fast, that
-                    they were soon render’d incapable of the Business they came about,
-                    notwithstanding the Caution that was given.</p>
+                        Joncaire</person> sent for the <person last="Tanacharison">Half
+                        King,</person> as he had but just heard that he came with me: He affected to
+                    be much concern’d that I did not make free to bring them in before; I excused it
+                    in the best Manner I was capable ; and told him I did not think their Company
+                    agreeable, as I had heard him say a good deal in Dispraise of Indians in general
+                    ; but another Motive prevented me from bringing them into his Company ; I knew
+                    he was Interpreter, and a Person of very great Influence among the Indians, and
+                    had lately used all possible Means to draw them over to their Interest;
+                    therefore I was desirous of giving no Opportunity that could be avoided.When
+                    they came in, there was great Pleasure express’d at seeing them ;` he wonder’d
+                    how they could be so near without coming to visit him, made several trifling
+                    Presents, and applied Liquor so fast, that they were soon render’d incapable of
+                    the Business they came about, notwithstanding the Caution that was given.</p>
             </entry>
             <entry>
                 <p n="40"><date month="November" day="6" year="1753">6th,</date> The <person>Half
@@ -514,15 +521,15 @@
                     prevented his speaksing any Thing, ’til he came to the Commandant; but could not
                     prevail: He told me, that at this Place a Council Fire was kindled, where all
                     their Business with these People was to be transacted, and that the Management
-                    of the Indian Afsfairs was left solely to <person>Monsieur Joncaire.</person> As
-                    I was desirous of knowing the Issue of this, I agreed to stay, but sent our
-                    Horses a little Way up <place placeType="river">French Creek,</place> to raft
-                    over and encamp ; which I knew would make it near Night.About 10 o’Clock they
-                    met in Council ; the King spoke much the same as he had before done to the
-                    General, and offer’d the French Speech-Belt which had before been demanded, with
-                    the Marks of four Towns on it, which <person last="Joncaire">Monsieur
-                        Joncaire</person> resfused to receive ; but desired him to carry it to the
-                    Fort to the Commander. </p>
+                    of the Indian Afsfairs was left solely to <person last="Joncaire">Monsieur
+                        Joncaire.</person> As I was desirous of knowing the Issue of this, I agreed
+                    to stay, but sent our Horses a little Way up <place placeType="river">French
+                        Creek,</place> to raft over and encamp ; which I knew would make it near
+                    Night.About 10 o’Clock they met in Council ; the King spoke much the same as he
+                    had before done to the General, and offer’d the French Speech-Belt which had
+                    before been demanded, with the Marks of four Towns on it, which <person
+                        last="Joncaire">Monsieur Joncaire</person> resfused to receive ; but desired
+                    him to carry it to the Fort to the Commander. </p>
             </entry>
             <entry>
                 <p n="41"><date month="November" day="7" year="1753">7th,</date>
@@ -537,22 +544,23 @@
                     French Belt which he had in Keeping) but was obliged to send <person last="Gist"
                         >Mr. Gist</person> over To-day to fetch them, which he did with great
                     Persuasion.</p>
-                <p n="42"> At <time>11 o’Clock</time> we set out for the Fort; and were prevented
-                    from arriving there ’til the 11th by excessive Rains, Snows, and bad Travelling,
-                    through many Mires and Swamps, which we were obliged to pass, to avoid crossing
-                    the Creek, which was impossible, either by fording or rafting, the Water was so
-                    high and rapid.</p>
+                <p n="42"> At <time timeType="morning">11 o’Clock</time> we set out for the Fort;
+                    and were prevented from arriving there ’til the 11th by excessive Rains, Snows,
+                    and bad Travelling, through many Mires and Swamps, which we were obliged to
+                    pass, to avoid crossing the Creek, which was impossible, either by fording or
+                    rafting, the Water was so high and rapid.</p>
                 <p n="43"> We passed over much good Land since we left <place placeType="fort"
                         >Venango,</place> and through several extensive and very rich Meadows ; one
                     of which I believe was near four Miles in Length, and considersably wide in some
                     Places.</p>
             </entry>
             <entry>
-                <p n="44"><date month="November" day="12" year="1753">12th,</date> I prepar’d early to wait upon the Commander, and was
-                    received and conducted to him by the second Officer in Comsmand; I acquainted
-                    him with my Business, and offer’d my Commission and Letter, both of which he
-                    desired me to keep ’til the arrival of <person>Monsieur Riparti,</person>
-                    Captain, at the next Fort, who was sent for and expected every Hour. </p>
+                <p n="44"><date month="November" day="12" year="1753">12th,</date> I prepar’d early
+                    to wait upon the Commander, and was received and conducted to him by the second
+                    Officer in Comsmand; I acquainted him with my Business, and offer’d my
+                    Commission and Letter, both of which he desired me to keep ’til the arrival of
+                        <person>Monsieur Riparti,</person> Captain, at the next Fort, who was sent
+                    for and expected every Hour. </p>
                 <p n="45">This Commander is a Knight of the military Order of St. Lewis, and named
                         <person>Legardeur de St. Piere.</person> He is an elderly Gentleman, and has
                     much the Air of a Soldier; he was sent over to take the Command, immediately
@@ -564,21 +572,22 @@
                     to peruse and correct it, which I did.</p>
             </entry>
             <entry>
-                <p n="47"><date month="November" day="13" year="1753">13th</date>, The chief Officers retired, to hold a Council of War, which gave me
-                    an Opportunity of taking the Dimensions of the Fort, and making what
-                    Observations I could.</p>
-                <p n="48">It is situated on the South, or <place placeType="river">West Fork of French Creek,</place>
-                    near the Water, and is almost surrounded by the Creek, and a small Branch of it
-                    which forms a Kind of an Island; four Houses compose the Sides; the Bastions are
-                    made of Piles driven into the Ground, and about 12 Feet above, and sharp at Top,
-                    with Port-Holes cut for Cannon and Loop-Holes for the small Arms to fire
-                    through; there are eight 6 lb. Pieces mounted, two in each Bastion, and one
-                    Piece of four Pound before the Gate; in the Bastions are a Guard-House, Chas
-                    pel, <place>Doctor’s Lodging,</place> and <place>the Commander’s private
-                        Store,</place> round which are laid PlatForms for the Cannon and Men to
-                    stand on : There are several Barracks without the Fort, for the Soldiers
-                    Dwelling, covered, some with Bark, and some with Boards, made chiefly of Loggs :
-                    There are also several other Houses, such as Stables, Smiths Shop..</p>
+                <p n="47"><date month="November" day="13" year="1753">13th</date>, The chief
+                    Officers retired, to hold a Council of War, which gave me an Opportunity of
+                    taking the Dimensions of the Fort, and making what Observations I could.</p>
+                <p n="48">It is situated on the South, or <place placeType="river">West Fork of
+                        French Creek,</place> near the Water, and is almost surrounded by the Creek,
+                    and a small Branch of it which forms a Kind of an Island; four Houses compose
+                    the Sides; the Bastions are made of Piles driven into the Ground, and about 12
+                    Feet above, and sharp at Top, with Port-Holes cut for Cannon and Loop-Holes for
+                    the small Arms to fire through; there are eight 6 lb. Pieces mounted, two in
+                    each Bastion, and one Piece of four Pound before the Gate; in the Bastions are a
+                    Guard-House, Chas pel, <place>Doctor’s Lodging,</place> and <place>the
+                        Commander’s private Store,</place> round which are laid PlatForms for the
+                    Cannon and Men to stand on : There are several Barracks without the Fort, for
+                    the Soldiers Dwelling, covered, some with Bark, and some with Boards, made
+                    chiefly of Loggs : There are also several other Houses, such as Stables, Smiths
+                    Shop..</p>
 
                 <p n="49">I could get no certain Account of the Number of Men here ; but according
                     to the best Judgment I could form, there are an Hundred exclusive of Officers,
@@ -588,14 +597,14 @@
                     besides many others that were block’d out, in Readiness to make.</p>
             </entry>
             <entry>
-                <p n="50"><date month="November" day="14" year="1753">14th</date>, As the Snow encreased very fast, and our Horses daily
-                    became weaker, I sent them off unloaded, under the Care of<person> Barnaby
-                        Currin</person> and two others, to make all convenient Dispatch to
-                        <place>Venango,</place> and there wait our Arrival if there was a Prospect
-                    of the Rivers freezing, if not, then to continue down to Shanapin’ s Town, at
-                    the Forks of the Ohio, and there to wait ’til we came to cross<place
-                        placeType="river">Aligany,</place> intending myself to go down by Water, as
-                    I had the Offer of a Canoe or Two.</p>
+                <p n="50"><date month="November" day="14" year="1753">14th</date>, As the Snow
+                    encreased very fast, and our Horses daily became weaker, I sent them off
+                    unloaded, under the Care of<person> Barnaby Currin</person> and two others, to
+                    make all convenient Dispatch to <place>Venango,</place> and there wait our
+                    Arrival if there was a Prospect of the Rivers freezing, if not, then to continue
+                    down to Shanapin’ s Town, at the Forks of the Ohio, and there to wait ’til we
+                    came to cross<place placeType="river">Aligany,</place> intending myself to go
+                    down by Water, as I had the Offer of a Canoe or Two.</p>
                 <p n="51">As I found many Plots concerted to retard the Indians Business, and
                     prevent their returning with me; I endeavour’d all that lay in my Power to
                     frustrate their Schemes, and hurry them on to execute their intended Design;
@@ -636,34 +645,34 @@
 
 
             <entry>
-                <p n="54"><date month="December" day="15" year="1753">15th,</date> The<person> Commandant</person> ordered a plentiful
-                    Store of Liquor, Provision, to be put on Board our Canoe, and appeared to be
-                    extremely complaisant, though he was exerting every Arstifice that he could
-                    invent to set our own Indians at Variance with us, to prevent their going ’til
-                    after our Departure : Pressents, Rewards, and every Thing that could be
-                    suggested by him or his Officers. —— I can’t say that ever in my Life I suffer’d
-                    so much Anxiety as I did in this Affair ; I saw that every Stratsagem that the
-                    most fruitful Brain could invent, was practised, to win the <person last="Tanacharison">Half
-                        King</person>to their Interest, and that leaving Him here was giving them
-                    the Opportunity they aimed at. —— I went to the <person last="Tanacharison">Half King</person>, and
-                    press’d him in the strongest Terms to go : He told me the Commandant would not
-                    discharge him ’til the Morning. I then went to the Commandant, and desired him
-                    to do their Business, and complain’d of ill Treatment ; for keeping them, as
-                    they were Part of my Company, was detainsing me ; which he promised not to do,
-                    but to forward my Joursney as much as he could : He protested he did not keep
-                    them, but was ignorant of the Cause of their Stay; though I soon found it out
-                    :—He had promised them a Present of Guns, if they would wait ’til the
-                    Morning.</p>
+                <p n="54"><date month="December" day="15" year="1753">15th,</date> The<person>
+                        Commandant</person> ordered a plentiful Store of Liquor, Provision, to be
+                    put on Board our Canoe, and appeared to be extremely complaisant, though he was
+                    exerting every Arstifice that he could invent to set our own Indians at Variance
+                    with us, to prevent their going ’til after our Departure : Pressents, Rewards,
+                    and every Thing that could be suggested by him or his Officers. —— I can’t say
+                    that ever in my Life I suffer’d so much Anxiety as I did in this Affair ; I saw
+                    that every Stratsagem that the most fruitful Brain could invent, was practised,
+                    to win the <person last="Tanacharison">Half King</person>to their Interest, and
+                    that leaving Him here was giving them the Opportunity they aimed at. —— I went
+                    to the <person last="Tanacharison">Half King</person>, and press’d him in the
+                    strongest Terms to go : He told me the Commandant would not discharge him ’til
+                    the Morning. I then went to the Commandant, and desired him to do their
+                    Business, and complain’d of ill Treatment ; for keeping them, as they were Part
+                    of my Company, was detainsing me ; which he promised not to do, but to forward
+                    my Joursney as much as he could : He protested he did not keep them, but was
+                    ignorant of the Cause of their Stay; though I soon found it out :—He had
+                    promised them a Present of Guns, if they would wait ’til the Morning.</p>
                 <p n="55">As I was very much press’d, by the Indians, to wait this Day for them, I
                     consented, on a Promise, That nothing should hinsder them in the Morning.</p>
             </entry>
             <entry>
-                <p n="56"><date month="November" day="16" year="1753">16th,</date> The French were not slack in their Inventions to keep
-                    the Indians this Day also ; but as they were obligated, accordsing to Promise,
-                    to give the Present, they then endeavoured to try the Power of Liquor, which I
-                    doubt not would have presvailed at any other Time than this, but I urged and
-                    insisted with the King so closely upon his Word, that he refrained, and set off
-                    with us as he had engaged.</p>
+                <p n="56"><date month="November" day="16" year="1753">16th,</date> The French were
+                    not slack in their Inventions to keep the Indians this Day also ; but as they
+                    were obligated, accordsing to Promise, to give the Present, they then
+                    endeavoured to try the Power of Liquor, which I doubt not would have presvailed
+                    at any other Time than this, but I urged and insisted with the King so closely
+                    upon his Word, that he refrained, and set off with us as he had engaged.</p>
                 <p n="57"> We had a tedious and very fatiguing Passage down the Creek, several Times
                     we had like to have been staved against Rocks, and many Times were obliged all
                     Hands to get out and remain in the Water Half an Hour or more, getting over the
@@ -672,22 +681,23 @@
                     a Mile over. We did not reach Venango, till the 22d, where we met with our
                     Horses. </p>
                 <p n="58">This Creek is extremely crooked, I dare say the Distance between the Fort
-                    and <place placeType="city">Venango</place> can’t be less than 130 Miles, to follow the
-                    Meanders.</p>
+                    and <place placeType="city">Venango</place> can’t be less than 130 Miles, to
+                    follow the Meanders.</p>
             </entry>
             <entry>
-                <p n="60"><date month="November" day="23" year="1754">23d.</date> When I got Things ready to set off, I sent for the Half
-                    King, to know whether he intended to go with us, or by Waster, he told me that
-                        <person>White-Thunder </person>had hurt himself much, and was sick and
-                    unable to walk, therefore he was obliged to carry him down in a Canoe: As I
-                    found he intended to stay here a Day or two, and knew that<person>Monsieur
-                        Joncaire</person> would employ every Scheme to set him against the English
-                    as he had before done; I told him I hoped he would guard against his Flattery,
-                    and let no fine Speeches influence him in their Fasvour: He desired I might not
-                    be concerned, for he knew the French too well, for any Thing to engage him in
-                    their Behalf, and though he could not go down with us, he would endeavour to
-                    meet at the Forks with Joseph Campbell, to deliver a Speech for me to carry to
-                    his Honour the Governor. He told me he would order the young Hunter to attend
+                <p n="60"><date month="November" day="23" year="1754">23d.</date> When I got Things
+                    ready to set off, I sent for the Half King, to know whether he intended to go
+                    with us, or by Waster, he told me that <person last="White-Thunder"
+                        >White-Thunder </person>had hurt himself much, and was sick and unable to
+                    walk, therefore he was obliged to carry him down in a Canoe: As I found he
+                    intended to stay here a Day or two, and knew that<person last="Joncaire"
+                        >Monsieur Joncaire</person> would employ every Scheme to set him against the
+                    English as he had before done; I told him I hoped he would guard against his
+                    Flattery, and let no fine Speeches influence him in their Fasvour: He desired I
+                    might not be concerned, for he knew the French too well, for any Thing to engage
+                    him in their Behalf, and though he could not go down with us, he would endeavour
+                    to meet at the Forks with Joseph Campbell, to deliver a Speech for me to carry
+                    to his Honour the Governor. He told me he would order the young Hunter to attend
                     us, and get Provision,if wanted. </p>
                 <p n="61">Our Horses were now so weak and feeble, and the Baggage heavy, as we here
                     obliged to provide all the Necessaries that the Journey would require; that we
@@ -698,8 +708,9 @@
                     in any reasonable Time ; the Horses grew less able to travel every Day ; the
                     Cold increased very fast, and the Roads were becoming much worse by a deep Snow,
                     continually freezing ; and as I was uneasy to get back, to make Report of my
-                    Proceedings to his Honour the Governor, I determined to prosecute my Journey the
-                    nearest Way through the Woods, on Foot.</p>
+                    Proceedings to his Honour the <person rank="Governor" last="Dinwiddie"
+                        first="Robert"/>Governor, I determined to prosecute my Journey the nearest
+                    Way through the Woods, on Foot.</p>
                 <p n="62">Accordingly I left Mr. Vanbraam in Charge of our Baggage, with Money and
                     Directions, to provide Necessaries from Place to Place for themselves and
                     Horses, and to make the most consvenient Dispatch in. </p>
@@ -709,87 +720,92 @@
                     The Day following, just after we had passed a Place called the Murdering-Town,
                     where we intended to quit the Path, and steer across the Country for Shannapins
                     Town, we fell in with a Party of French Indians, who had lain in Wait for us;
-                    one of them fired at Mr. Gist or me, not 15 Steps, but fortunately missed. We
-                    took this fellow into Custody, and kept him till about 9 o’Clock at Night, and
-                    then let him go, and walked all the remaining Part of the Night without making
-                    any Stop, that we might get the Start, so far, as to be out of the Reach of
-                    their Pursuit the next Day, as we were well assured they would follow our Tract
-                    as soon as it was light : The next Day we constinued travelling till quite dark,
-                    and got to the River about two Miles above Shannapins; we expected to have found
-                    the River frozen, but it was not, only about 50 Yards from each Shore ; the Ice
-                    I suppose had broke up above, for it was driving in vast Quantities. ish ; I put
-                    out my setting Pole to try to stop the Raft, that the Ice might pass by, when
-                    the Rapidity of the Stream threw it with so much Violence against the Pole, that
-                    it jirked me out into ten Feet Water, but I fortunately saved myself by catching
+                    one of them fired at <person first="Christopher" last="Gist">Mr. Gist</person>
+                    or me, not 15 Steps, but fortunately missed. We took this fellow into Custody,
+                    and kept him till about <time>9 o’Clock</time> at Night, and then let him go,
+                    and walked all the remaining Part of the Night without making any Stop, that we
+                    might get the Start, so far, as to be out of the Reach of their Pursuit the next
+                    Day, as we were well assured they would follow our Tract as soon as it was light
+                    : The next Day we constinued travelling till quite dark, and got to the River
+                    about two Miles above Shannapins; we expected to have found the River frozen,
+                    but it was not, only about 50 Yards from each Shore ; the Ice I suppose had
+                    broke up above, for it was driving in vast Quantities. ish ; I put out my
+                    setting Pole to try to stop the Raft, that the Ice might pass by, when the
+                    Rapidity of the Stream threw it with so much Violence against the Pole, that it
+                    jirked me out into ten Feet Water, but I fortunately saved myself by catching
                     hold of one of the Raft Logs ; notwithstanding all our Efforts we could not get
                     the Raft to either Shore, but were obliged, as we were near an Island, to quit
                     our Raft and make to it. </p>
-                <p n="64">I enquir’d of <person rank="Captain" last="Riparti">Capt. Riparti</person> about the Boy that was carried by, as it was
-                    done while the Command devolved on him, bestween the Death of the late General,
-                    and the Arrival of the present; he acknowledged, that a Boy had been carried
-                    past, and that the Indians had two or three white Men’s Scalps (I was told by
-                    some of the Indians at Venango Eight) but prestended to have forgot the Name of
-                    the Place that the Boy came from, and all the Particulars, though he question’d
-                    him for some Hours, as they were carrying him past: I likewise ensquired what
-                    they had done with <person last="Trotter" first="">John Trotter</person> and <person last="MascClocklan" first="James"></person>James MacsClocklan, two Pensylvania Traders,
-                    whom they had taken, with all their Goods : They told me, that they had been
-                    sent to Canada, but were now returned Home. This Evening I received an Answer to
-                    his Honour the Govsernor’s Letter from the Commandant. </p>
+                <p n="64">I enquir’d of <person rank="Captain" last="Riparti">Capt. Riparti</person>
+                    about the Boy that was carried by, as it was done while the Command devolved on
+                    him, bestween the Death of the late General, and the Arrival of the present; he
+                    acknowledged, that a Boy had been carried past, and that the Indians had two or
+                    three white Men’s Scalps (I was told by some of the Indians at Venango Eight)
+                    but prestended to have forgot the Name of the Place that the Boy came from, and
+                    all the Particulars, though he question’d him for some Hours, as they were
+                    carrying him past: I likewise ensquired what they had done with <person
+                        last="Trotter" first="">John Trotter</person> and <person
+                        last="MascClocklan" first="James">James MacsClocklan</person>, two
+                    Pensylvania Traders, whom they had taken, with all their Goods : They told me,
+                    that they had been sent to Canada, but were now returned Home. This Evening I
+                    received an Answer to his Honour the Govsernor’s Letter from the Commandant.
+                </p>
             </entry>
             <entry>
-                <p n="65"><date month="December" day="15th" year="1753">15th,</date> The Commandant ordered a plentiful Store of
-                    Liquor, Provision,to be put on Board our Canoe, and appeared to be extremely
-                    complaisant, though he was exerting every Arstifice that he could invent to set
-                    our own Indians at Variance with us, to prevent their going ’til after our
-                    Departure : Pressents, Rewards, and every Thing that could be suggested by him
-                    or his Officers. —— I can’t say that ever in my Life I suffer’d so much Anxiety
-                    as I did in this Affair ; I saw that every Stratsagem that the most fruitful
-                    Brain could invent, was practised, to win the Half King to their Interest, and
-                    that leaving Him here was giving them the Opportunity they aimed at. —— I went
-                    to the <person last="Tanacharison">Half King</person>, and press’d him in the strongest Terms to go : He told me the
-                    Commandant would not discharge him ’til the Morning. I then went to the
-                    Commandant, and desired him to do their Business, and complain’d of ill
-                    Treatment ; for keeping them, as they were Part of my Company, was detainsing me
-                    ; which he promised not to do, but to forward my Joursney as much as he could :
-                    He protested he did not keep them, but was ignorant of the Cause of their Stay;
-                    though I soon found it out :—He had promised them a Present of Guns, if they
-                    would wait ’til the Morning.As I was very much press’d, by the Indians, to wait
-                    this Day for them, I consented, on a Promise, That nothing should hinsder them
-                    in the Morning </p>
+                <p n="65"><date month="December" day="15th" year="1753">15th,</date> The Commandant
+                    ordered a plentiful Store of Liquor, Provision,to be put on Board our Canoe, and
+                    appeared to be extremely complaisant, though he was exerting every Arstifice
+                    that he could invent to set our own Indians at Variance with us, to prevent
+                    their going ’til after our Departure : Pressents, Rewards, and every Thing that
+                    could be suggested by him or his Officers. —— I can’t say that ever in my Life I
+                    suffer’d so much Anxiety as I did in this Affair ; I saw that every Stratsagem
+                    that the most fruitful Brain could invent, was practised, to win the Half King
+                    to their Interest, and that leaving Him here was giving them the Opportunity
+                    they aimed at. —— I went to the <person last="Tanacharison"> Half King</person>,
+                    and press’d him in the strongest Terms to go : He told me the Commandant would
+                    not discharge him ’til the Morning. I then went to the Commandant, and desired
+                    him to do their Business, and complain’d of ill Treatment ; for keeping them, as
+                    they were Part of my Company, was detainsing me ; which he promised not to do,
+                    but to forward my Joursney as much as he could : He protested he did not keep
+                    them, but was ignorant of the Cause of their Stay; though I soon found it out
+                    :—He had promised them a Present of Guns, if they would wait ’til the Morning.As
+                    I was very much press’d, by the Indians, to wait this Day for them, I consented,
+                    on a Promise, That nothing should hinsder them in the Morning </p>
             </entry>
             <entry>
-                <p n="66"><date month="December" day="16" year="1753">16th</date>,/date> The French were not slack in their Inventions to keep
-                    the Indians this Day also ; but as they were obligated, accordsing to Promise,
-                    to give the Present, they then endeavoured to try the Power of Liquor, which I
-                    doubt not would have presvailed at any other Time than this, but I urged and
-                    insisted with the King so closely upon his Word, that he refrained, and set off
-                    with us as he had engaged. </p>
+                <p n="66"><date month="December" day="16" year="1753">16th</date>,/date> The French
+                    were not slack in their Inventions to keep the Indians this Day also ; but as
+                    they were obligated, accordsing to Promise, to give the Present, they then
+                    endeavoured to try the Power of Liquor, which I doubt not would have presvailed
+                    at any other Time than this, but I urged and insisted with the King so closely
+                    upon his Word, that he refrained, and set off with us as he had engaged. </p>
                 <p n="67">We had a tedious and very fatiguing Passage down the Creek, several Times
                     we had like to have been staved against Rocks, and many Times were obliged all
                     Hands to get out and remain in the Water Half an Hour or more, getting over the
                     Shoals ; at one Place the Ice had lodged and made it impasssable by Water;
                     therefore we were obliged to carry our Canoe across a Neck of Land, a Quarter of
                     a Mile over. We did not reach <place PlaceType="fort">Venango</place>, till the
-                    <date month="December" day="22" year="1754">22d</date>, where we met with our Horses. by a deep Snow, continually freezing ; and as
-                    I was uneasy to get back, to make Report of my Proceedings to his Honour the
-                    Governor, I determined to prosecute my Journey the nearest Way through the
-                    Woods, on Foot. This Creek is extremely crooked, I dare say the Distance between
-                    the Fort and Venango can’t be less than 130 Miles, to follow the Meanders.</p>
+                        <date month="December" day="22" year="1754">22d</date>, where we met with
+                    our Horses. by a deep Snow, continually freezing ; and as I was uneasy to get
+                    back, to make Report of my Proceedings to his Honour the Governor, I determined
+                    to prosecute my Journey the nearest Way through the Woods, on Foot. This Creek
+                    is extremely crooked, I dare say the Distance between the Fort and Venango can’t
+                    be less than 130 Miles, to follow the Meanders.</p>
             </entry>
             <entry>
-                <p n="68"><date month="December" day="23" year="">23d.</date> When I got Things ready to set off, I sent
-                    for the HalfmKing, to know whether he intended to go with us, or by Waster, he
-                    told me that White-Thunder had hurt himself much, and was sick and unable to
-                    walk, therefore he was obliged to carry him down in a Canoe: As I found he
-                    intended to stay here a Day or two, and knew that Monsieur Joncaire would employ
-                    every Scheme to set him against the English as he had before done; I told him I
-                    hoped he would guard against his Flattery, and let no fine Speeches influence
-                    him in their Fasvour: He desired I might not be concerned, for he knew the
-                    French too well, for any Thing to engage him in their Behalf, and though he
-                    could not go down with us, he would endeavour to meet at the Forks with Joseph
-                    Campbell, to deliver a Speech for me to carry to his Honour the Governor. He
-                    told me he would order the young Hunter to attend us, and get Provision,if
-                    wanted. </p>
+                <p n="68"><date month="December" day="23" year="">23d.</date> When I got Things
+                    ready to set off, I sent for the HalfmKing, to know whether he intended to go
+                    with us, or by Waster, he told me that White-Thunder had hurt himself much, and
+                    was sick and unable to walk, therefore he was obliged to carry him down in a
+                    Canoe: As I found he intended to stay here a Day or two, and knew that Monsieur
+                    Joncaire would employ every Scheme to set him against the English as he had
+                    before done; I told him I hoped he would guard against his Flattery, and let no
+                    fine Speeches influence him in their Fasvour: He desired I might not be
+                    concerned, for he knew the French too well, for any Thing to engage him in their
+                    Behalf, and though he could not go down with us, he would endeavour to meet at
+                    the Forks with Joseph Campbell, to deliver a Speech for me to carry to his
+                    Honour the Governor. He told me he would order the young Hunter to attend us,
+                    and get Provision,if wanted. </p>
                 <p n="69">Our Horses were now so weak and feeble, and the Baggage heavy, as we here
                     obliged to provide all the Necessaries that the Journey would require; that we
                     doubted much their persforming it: therefore myself and others (except the
@@ -808,8 +824,9 @@
                 <p n="70">I took my necessary Papers, pulled off my Cloaths; tied myself up in a
                     Match Coat; and with my Pack at my Back with my Papers and Provisions in it, and
                     a Gun, set out with <person last="Gist">Mr. Gist</person>, fitted in the same
-                    Manner, on <date month="December" day="26" year="1753">Wednesday the 26th.</date> The Day following, just
-                    after we had passed a Place called the Murdering-Town, where we intended to quit
+                    Manner, on <date month="December" day="26" year="1753">Wednesday the
+                        26th.</date> The Day following, just after we had passed a Place called the
+                        <place placeType="city">Murdering-Town</place>, where we intended to quit
                     the Path, and steer across the Country for Shannapins Town, we fell in with a
                     Party of French Indians, who had lain in Wait for us; one of them fired at Mr.
                     Gist or me, not 15 Steps, but fortunately missed. We took this fellow into
@@ -849,31 +866,33 @@
                     thought much the best Present of the two. </p>
             </entry>
             <entry>
-                <p n="73"> Tuesday the <date day="1st Day" month="January" year="1754">January 1st.</date> we
-                    left <place>Mr. Frazier’s House</place>, and arrived at <place PlaceType="home"
-                        >Mr. Gist’ s at <place placeType="river">Monongahela </place>the <date month="January" date="2nd" year="1754"
-                        >2d</date>, where I bought Horse, Saddle,the 6th we met 17 Horses loaded
-                    with Materials and Stores for a Fort at the <place placeType="river">Forks of Ohio</place>, and the Day after
-                    some Families going out to settle : This Day we arrived at <place placeType='creek'></place>Wills-Creek</place>, after as
-                    fatiguing a Journey as it is posssible to conceive, rendered so by excessive bad
-                    Weather : From the first Day of<date month="December" day="15" year="1753"> December to the 15th</date>, there was but one Day but
-                    it rained or snowed incessantly ; and throughout the whole Journey we met with
-                    nothing but one continued Series of cold wet Weather, which occasioned very
-                    uncomfortable Lodgings, especially after we had left our Tent, which was some
-                    Screen from the Inclemency of it.</p>
+                <p n="73"> Tuesday the <date day="1st Day" month="January" year="1754">January
+                        1st.</date> we left <place>Mr. Frazier’s House</place>, and arrived at
+                        <place PlaceType="home">Mr. Gist’ s at <place placeType="river">Monongahela
+                        </place>the <date month="January" date="2nd" year="1754">2d</date>, where I
+                        bought Horse, Saddle,the 6th we met 17 Horses loaded with Materials and
+                        Stores for a Fort at the <place placeType="river">Forks of Ohio</place>, and
+                        the Day after some Families going out to settle : This Day we arrived at
+                            <place placeType="creek"/>Wills-Creek</place>, after as fatiguing a
+                    Journey as it is posssible to conceive, rendered so by excessive bad Weather :
+                    From the first Day of<date month="December" day="15" year="1753"> December to
+                        the 15th</date>, there was but one Day but it rained or snowed incessantly ;
+                    and throughout the whole Journey we met with nothing but one continued Series of
+                    cold wet Weather, which occasioned very uncomfortable Lodgings, especially after
+                    we had left our Tent, which was some Screen from the Inclemency of it.</p>
             </entry>
             <entry>
-                <p n="74">On the <date month="January" date="11th" year="1754">11th</date> I got to <place
-                        PlaceType="city">Belvoir</place> where I stopped one Day to take necessary
-                    Rest, and then set out, and arrived in<place placeType="city">Williamsburg</place>
-                        the<date>16th,</date> and waited upon his Honour the <person first="Robert"
-                        last="Dinwidde">Governor </person>with the Letter I had brought from the
-                    French Commandant, and to give an Account of the Proceedings of my Journey,
-                    which I beg leave to do by offering the foregoing, as it contains the most
-                    remarkable Occurrences that happened to me.I hope it will be sufficient to
-                    satisfy your Honour with my Proceedings; for that was my Aim in undertaking the
-                    Joursney, and chief Study throughout the Prosecution of it. With the Hope of
-                    doing it, I, with infinite Pleasure, subsscribe myself, </p>
+                <p n="74">On the <date month="January" date="11th" year="1754">11th</date> I got to
+                        <place PlaceType="city">Belvoir</place> where I stopped one Day to take
+                    necessary Rest, and then set out, and arrived in<place placeType="city"
+                        >Williamsburg</place> the<date>16th,</date> and waited upon his Honour the
+                        <person first="Robert" last="Dinwidde">Governor </person>with the Letter I
+                    had brought from the French Commandant, and to give an Account of the
+                    Proceedings of my Journey, which I beg leave to do by offering the foregoing, as
+                    it contains the most remarkable Occurrences that happened to me.I hope it will
+                    be sufficient to satisfy your Honour with my Proceedings; for that was my Aim in
+                    undertaking the Joursney, and chief Study throughout the Prosecution of it. With
+                    the Hope of doing it, I, with infinite Pleasure, subsscribe myself, </p>
             </entry>
 
             <closing> Your Honour’s most Obedient, And very humble Servant,<person rank="Major"
