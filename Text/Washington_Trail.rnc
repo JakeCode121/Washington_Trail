@@ -6,24 +6,20 @@ section= element section{head*, title*, body*}
 
 head= element head{intro*, p+}
 
-title= element title {p*}
+title= element title {p+}
 
 body= element body {p+, entry+, closing*}
 
-p= element p {n}
+p= element p {date*, name*, people*, person*, place*,speech*, time*}
 
 
-intro= element intro
+intro= element intro {person*, year*}
 
-person= element person {Honourable Robert Dinwiddie*, Esq; Governor,&amp;c. of Virginia*,
-Commandant of the French Forces on the Ohio*, 
-Jacob Van Bramm*, Mr. Gist*, Barnaby Currin*, John MacQuire*, Henry Steward*, Half King+, 
-my Indian interpreter*, French General*, Half King*}
-
+person= element person {place*}
 
 people= element people
 
-peopleType=attribute peopleType {'indians'+, 'soldiers'*}
+peopleType= attribute {'Indians'+}
 
 rank= attribute rank {'Major'+, 'Governor'+, 'Captain'+, 'General'*}
 
