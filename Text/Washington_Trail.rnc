@@ -13,28 +13,27 @@ body= element body {p+, entry+, closing*}
 p= element p {date*, name*, people*, person*, place*,speech*, time*}
 
 
-intro= element intro {person*, year*}
+intro= element intro {text |person | year}
 
-person= element person {place*}
-
-people= element people
-
-peopleType= attribute {'Indians'+}
-
-rank= attribute rank {'Major'+, 'Governor'+, 'Captain'+, 'General'*}
-
-last= attribute {'Washington'*, 'Gist'*, 'Dinwidie'*, 'Van Braam'*, 'Tanacharison'*,
-'Jefferson'*,'HUNTER'*,'Currin'*, 'MacQuire'*, 'Shingiss'*, 'Frazier'*, 
-'toocha'*, 'Jonscaire'*, 'Jonscaire'*, 'Riparti'*, 'Trotter'*, 'MasClocklan'*, 'Dinwidde'*}
-
-first= attribute {'George'+, 'Christopher'*,'Robert'+, 'Jacob'*,'Thomas'*,'Barnaby'*,'John'*,'WILLIAM'*}
-
-place=element place 
-
-placeType= attribute placeType {'river'+, 'city'+, 'colony'+,'ocean'*,
-'State'*,'lake'*, 'creek'*,'fort'+, 'home'+}
-
-entry=element entry
+person= element person {rank*, last*, first*}
 
 
-n= attribute {'n'+}
+people= element people {peopleType}
+
+peopleType= attribute peopleType {'Indians'|'soldiers'}
+
+date =element date {'month'|'day'|'year'}
+
+last= attribute last {'Washington'|'Dinwiddie'|'Gist'|'Van Braam'|'Tanacharison'|'Jefferson'|'Hunter'|'Currin'|'MacQuire'|'Davidson'|'Shingiss'|'Frazier'|'toocha'|'Monocatoocha'|'Joncaire'|'Custaloga'|'Riparti'|'White-Thunder'|'Trotter'|'MascClocklan'}
+
+first= attribute first {'George' | 'Robert' |'Christopher' | 'Jacob' |'Thomas' |'William'|'Barnaby' | 'John' |'John'|'Monocas'|'Shingiss'|'Jeskake'|'James'}
+
+place= element place {'placeType'}
+
+placeType= attribute placeType {'colony'|'river'|'region'|'city'|'ocean'|'State'|'lake'|'creek'|'home'|'fort'}
+
+colony= attribute colony {'Virginia' | 'Pennsylvania'} 
+
+entry=element entry 
+
+
