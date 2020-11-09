@@ -131,9 +131,9 @@
             <p n="7">Here I engaged <person last="Gist" first="Christopher">Mr. Gist</person> to
                 pilot us out, and also hired four others as Servitors,<person first="Barnaby"
                     last="Currin">Barnaby Currin</person>, and <person first="John" last="MacQuire"
-                    >John MacQuire</person>, Indian Traders, <name first="Henry" last="Steward"
-                    >Henry Steward</name>, and <name last="Jenkin" first="William">William
-                    Jenkins,</name> and in Company with those Persons, left the Inhabitants the Day
+                    >John MacQuire</person>, Indian Traders, <person first="Henry" last="Steward"
+                    >Henry Steward</person>, and <person last="Jenkin" first="William">William
+                    Jenkins,</person> and in Company with those Persons, left the Inhabitants the Day
                 following.</p>
 
             <p n="8">The excessive Rains and vast Quantity of Snow that had fallen, prevented our
@@ -145,9 +145,9 @@
                 the Return of the major Part of the French Army into Winter Quarters.</p>
 
             <p n="9"> The Waters were quite impassable, without swimming our Horses; which obliged
-                us to get the Loan of a Canoe from <name last="Frazier">,Frasier</name> and to send
-                    <name first="Barnaby" last="Currin">Barnaby Currin,</name> and <name
-                    last="Steward" first="Henry">Henry Steward,</name> down <place placeType="river"
+                us to get the Loan of a Canoe from <person last="Frazier">,Frasier</person> and to send
+                    <person first="Barnaby" last="Currin">Barnaby Currin,</person> and <person
+                    last="Steward" first="Henry">Henry Steward,</person> down <place placeType="river"
                     >Monongahela</place>, with our Baggage, to meet us at the <place>Forks of
                     Ohio,</place> about 10 Miles, to cross<place placeType="river">Aligany</place> . </p>
 
@@ -163,8 +163,13 @@
                 Fall. </p>
 
             <p n="11"> About two Miles from this, on the South East Side of the River, at the Place
+<<<<<<< HEAD
                 where the Ohio Company intended to erect a Fort, lives <name rank="chief">Shingiss,s
                     king of the Delawares;</name> we call’d upon him, to invite him to Council at
+=======
+                where the Ohio Company intended to erect a Fort, lives <person rank="chief">Shingiss,
+                    king of the Delawares;</person> we call’d upon him, to invite him to Council at
+>>>>>>> f16a3ab4765e0ebda5f890a909b2fe897e812972
                 the <place placeType="city">Loggs Town.</place>
             </p>
 
@@ -192,8 +197,8 @@
                     >Williamsburg:</place> We travelled over some extreme good, and bad Land, to get
                 to this Place. — </p>
 
-            <p n="15"> As soon as I came into Town, I went to <name rank="chief" last="Monacatoocha"
-                    >Monacatoocha</name> (as the <person last="Tanacharison"> Half King </person>was
+            <p n="15"> As soon as I came into Town, I went to <person rank="chief" last="Monacatoocha"
+                    >Monacatoocha</person> (as the <person last="Tanacharison"> Half King </person>was
                 out at his hunting Cabbin on <place>little Beaver Creek,</place> about 15 Miles off
                 ) and inform’d him by <person first="John" last="Davidson">my Indian
                     Interpreter</person>, that I was sent a Messenger to the<person rank="General">
