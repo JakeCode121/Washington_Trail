@@ -18,7 +18,7 @@ intro= element intro {text |person | year}
 person= element person {rank*, last*, first*}
 
 
-people= element people {peopleType}
+people= element people {peopleType+}
 
 peopleType= attribute peopleType {'Indians'|'soldiers'}
 
@@ -30,7 +30,7 @@ first= attribute first {'George' | 'Robert' |'Christopher' | 'Jacob' |'Thomas' |
 
 place= element place {'placeType'}
 
-placeType= attribute placeType {'colony'|'river'|'region'|'city'|'ocean'|'State'|'lake'|'creek'|'home'|'fort'}
+placeType= attribute placeType {'colony'|'river'|'region'|'city'|'ocean'|'State'|'lake'|'creek'|'home'|'fort'|'province'}
 
 colony= attribute colony {'Virginia' | 'Pennsylvania'} 
 
