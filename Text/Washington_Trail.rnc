@@ -8,27 +8,39 @@ head= element head{intro*, p+}
 
 title= element title {p+}
 
-body= element body {p+, entry+, closing*}
+body= element body {heading, entry+, closing*}
+
+heading element heading {p+}
 
 p= element p {date*, name*, people*, person*, place*,speech*, time*}
+
+entry=element entry {p+}
+
 
 
 intro= element intro {text |person | year}
 
 person= element person {rank*, last*, first*}
 
-
 people= element people {peopleType+}
 
-peopleType= attribute peopleType {'Indians'|'soldiers'}
+place= element place {placeType+}
 
-date =element date {'month'|'day'|'year'}
+date =element date {month+|daty+|year+}
 
-last= attribute last {'Washington'|'Dinwiddie'|'Gist'|'Van Braam'|'Tanacharison'|'Jefferson'|'Hunter'|'Currin'|'MacQuire'|'Davidson'|'Shingiss'|'Frazier'|'toocha'|'Monocatoocha'|'Joncaire'|'Custaloga'|'Riparti'|'White-Thunder'|'Trotter'|'MascClocklan'}
+speech= element speech {sp}
+
+rank=attribute rank {'Major'|'Governor'|'chief'|'General'|'Captain'}
+
+last= attribute last {'Washington'|'Dinwiddie'|'Gist'|'Van Braam'|'Jefferson'|'Hunter'|'Currin'|'MacQuire'|'Davidson'|'Shingiss'|'Frazier'|'toocha'|'Monocatoocha'|'Joncaire'|'Custaloga'|'Riparti'|'White-Thunder'|'Trotter'|'MascClocklan'}
 
 first= attribute first {'George' | 'Robert' |'Christopher' | 'Jacob' |'Thomas' |'William'|'Barnaby' | 'John' |'John'|'Monocas'|'Shingiss'|'Jeskake'|'James'}
 
-place= element place {'placeType'}
+peopleType= attribute peopleType {'Indians'|'soldiers'}
+
+month=attribute month {'October'|'January'|'February'|'November'|'December'}
+
+year= attribute year {'1753'|'1754'}
 
 placeType= attribute placeType {'colony'|'river'|'region'|'city'|'ocean'|'State'|'lake'|'creek'|'home'|'fort'|'province'}
 
@@ -36,4 +48,4 @@ colony= attribute colony {'Virginia' | 'Pennsylvania'}
 
 entry=element entry 
 
-
+sp= attribute sp 
