@@ -16,7 +16,7 @@
             <xsl:for-each select="//section[1]//p"><p><xsl:apply-templates/></p></xsl:for-each>
             
             <xsl:for-each select="//section[2]//p[1]"><h3><xsl:apply-templates/></h3></xsl:for-each>
-            <xsl:for-each select="//section[2]//p"><p><xsl:apply-templates/></p></xsl:for-each>
+            <xsl:for-each select="//section[3]//p"><p><xsl:apply-templates/></p></xsl:for-each>
         </body>
     </html>    
         
