@@ -10,25 +10,29 @@ title= element title {p+}
 
 body= element body {heading, entry+, closing*}
 
-heading element heading {p+}
+heading = element heading {p+}
 
 p= element p {date*, name*, people*, person*, place*,speech*, time*}
 
 entry=element entry {p+}
 
+closing = element closing {mixed {(text | person)*}}
 
+intro= element intro {mixed {(text | person | year)+}}
 
-intro= element intro {text |person | year}
+person= element person {rank?, last?, first?}
 
-person= element person {rank*, last*, first*}
+people= element people {peopleType?}
 
-people= element people {peopleType+}
+place= element place {placeType?}
 
-place= element place {placeType+}
+date =element date {month, day, year}
 
-date =element date {month+|daty+|year+}
+time = element time {timeType, text}
 
-speech= element speech {sp}
+timeType = attribute timeType {'morning' | 'afternoon' | 'evening' | 'night'}
+
+speech= element speech {sp, text}
 
 rank=attribute rank {'Major'|'Governor'|'chief'|'General'|'Captain'}
 
@@ -46,6 +50,4 @@ placeType= attribute placeType {'colony'|'river'|'region'|'city'|'ocean'|'State'
 
 colony= attribute colony {'Virginia' | 'Pennsylvania'} 
 
-entry=element entry 
-
-sp= attribute sp 
+sp= attribute sp {text}
