@@ -12,7 +12,7 @@ body= element body {heading, entry+, closing*}
 
 heading = element heading {p+}
 
-p= element p {date*, name*, people*, person*, place*,speech*, time*}
+p= element p {mixed {(date |  people | person | place | speech | time | text)+}}
 
 entry=element entry {p+}
 
@@ -27,6 +27,8 @@ people= element people {peopleType?}
 place= element place {placeType?}
 
 date =element date {month, day, year}
+
+day = attribute day {xsd:integer}
 
 time = element time {timeType, text}
 
