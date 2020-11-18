@@ -11,7 +11,7 @@
     <html>
         <head></head>
         <body>
-            <h1>Washington Journal</h1>
+            <h1>Washington's Journal</h1>
             <xsl:apply-templates select="//intro"/>
             <xsl:for-each select="//section[1]//p"><p><xsl:apply-templates/></p></xsl:for-each>
             
