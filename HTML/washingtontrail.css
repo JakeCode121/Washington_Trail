@@ -15,6 +15,7 @@ body {
     border-color: #73AD21; 
     background-image: url('Pictures/parchment.jpeg');background-size: cover; background-repeat: no-repeat;
     border-style:hidden;
+    border-width:medium;
 }
 
 
