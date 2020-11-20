@@ -13,7 +13,8 @@ body {
     color: black;
     background-color:white;
     border-color: #73AD21; 
-    background-image: url('Pictures/parchment.jpeg');background-size: cover; background-repeat: no-repeat; 
+    background-image: url('Pictures/parchment.jpeg');background-size: cover; background-repeat: no-repeat;
+    border-style:hidden;
 }
 
 
