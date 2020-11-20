@@ -1,0 +1,78 @@
+
+h1 {
+    font-size: 30px;
+    text-align: center
+}
+h2 {
+    text-align: center;
+    font-size: 20px;
+    color: black
+}
+
+body {
+    color: black;
+    background-color:white;
+    border-color: #73AD21; 
+    background-image: url('Pictures/parchment.jpeg');background-size: cover; background-repeat: no-repeat; 
+}
+
+
+figcaption {color: black ; font: 300}
+
+div {
+    color: black;}
+   
+
+td {font-size: large ;font:bold}
+
+p {font-size: x-large 
+; color:blue; text-align: center}
+
+
+
+.center {
+
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  border:black 10px; padding:10px 
+}
+
+
+.right {
+    float: right;
+    width: 250px;
+   padding: 10px;
+    border: 10px solid silver;
+    
+}
+
+
+.left {
+    float: left;
+    width: 250px;
+    border: 10px solid silver;
+    padding: 10px;
+}
+
+.container {
+  position: relative;
+}
+
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.image {
+    padding-left: 20px;
+    padding-right: 20px;
+    border: thick black;
+    
+}
+
