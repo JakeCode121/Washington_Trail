@@ -6,14 +6,23 @@ h1 {
 h2 {
     text-align: center;
     font-size: 20px;
-    color: red
+    color: red;
+}
+
+h3 {text-align:center;
+font-size: 20px;
+color: black;
+margin-left:55px;
+    margin-right:55px;
 }
 
 body {
     color: black;
     background-color:white;
     border-color: #73AD21; 
-    background-image: url('Pictures/parchment.jpeg');background-size: cover; background-repeat: no-repeat; 
+    background-image: url('Pictures/parchment.jpeg');background-size: cover; background-repeat: no-repeat;
+    border-style:hidden;
+    border-width:thick;
 }
 
 
@@ -22,7 +31,9 @@ div {
    
 }
 p {
-    text-align: center
+    text-align: center;
+    margin-left:55px;
+    margin-right:55px;
 }
 
 image
