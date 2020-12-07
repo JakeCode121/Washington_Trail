@@ -12,13 +12,13 @@ body= element body {heading, entry+, closing*}
 
 heading = element heading {p+}
 
-p= element p {(date |  people | person | place | speech | time | text)+}
+p= element p {mixed {(date |  people | person | place | speech | time | text)+}}
 
 entry=element entry {p+}
 
-closing = element closing {(text | person)*}
+closing = element closing {mixed {(text | person)*}}
 
-intro= element intro {(text | person | year)+}
+intro= element intro {mixed {(text | person | year)+}}
 
 person= element person {rank?, last?, first?}
 
