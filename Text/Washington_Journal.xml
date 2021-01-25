@@ -18,7 +18,7 @@
                     rank="Major" first="George" last="Washington">George Washington</person>, a
                 21-year-old major in the Virginia militia, volunteered to carry a letter from the
                     <person rank="Governor" first="Robert" last="Dinwiddie">governor</person> of
-                    <place placeType="colony">Virginia</place> to the <person>French
+                    <place placeType="colony">Virginia</place> to the <person rank="commander">French
                     commander</person> of the forts recently built on the headwaters of the <place
                     placeType="river">Ohio River</place> in northwestern <place placeType="colony"
                     >Pennsylvania</place>. The French had recently expanded their military
@@ -27,12 +27,12 @@
                 building forts and roads along the <place placeType="river">Allegheny River</place>,
                 with the design of linking their trade routes and sphere of influence down the
                     <place placeType="river">Ohio</place> to the <place placeType="river"
-                    >Mississippi</place>. Virginia governor <person first="Robert" last="Dinwiddie"
+                    >Mississippi</place>. Virginia governor <person rank="Governor" first="Robert" last="Dinwiddie"
                     >Robert Dinwiddie</person> believed them to be in violation of treaties and
                 claims that made those territories part of <place placeType="colony"
                     colony="Virginia">Virginia</place> and <place placeType="colony"
                     colony="Pennsylvania">Pennsylvania</place>, as granted by the British Crown, and
-                his letter to the <person>French commander</person> instructed him to cease, desist,
+                his letter to the <person rank="commander">French commander</person> instructed him to cease, desist,
                 and depart from those regions.</p>
 
             <p n="2">
@@ -50,7 +50,7 @@
                 delivery of a letter: he practiced diplomacy to keep the <people>Native
                     leaders</people> allied to the English cause; he interviewed <people>French
                     deserters</people> and reported on the extent of French military posts between
-                    <place placeType="city">New Orleans</place> and the <place placeType="lake"
+                    <place placeType="city" colony="Lousianna Teritorry">New Orleans</place> and the <place placeType="lake"
                     >Great Lakes</place>; he reconnoitered the Forks of the <place placeType="river"
                     >Ohio</place> with an eye to the proper site for building a fort; and he
                 inspected and reported on the construction of the new French forts and made
@@ -67,7 +67,7 @@
                 legislature was so pleased with his mission and his report that they voted him a £50
                 reward. The Journal of <person rank="Major" first="George" last="Washington">Major
                     George Washington</person> was reprinted in various colonial newspapers as far
-                away as <place placeType="city" colony="M">Boston</place>, and a British edition was
+                away as <place placeType="city" colony="Massachusetts">Boston</place>, and a British edition was
                 issued in <place placeType="city">London</place> later that same year, for which
                     <person rank="Major" first="George" last="Washington">Washington</person> sent
                 materials for the preparation of a map.</p>
@@ -121,7 +121,7 @@
                         1753</date>, I was commissioned and appointed by <person rank="Governor"
                         first="Robert" last="Dinwiddie">the Honourable Robert Dinwiddie, Esq;
                         Governor,&amp;c. of Virginia</person>, to visit and deliver a Letter to the
-                        <person>Commandant of the French Forces on the Ohio</person>, and set out on
+                        <person ranb="Commandant">Commandant of the French Forces on the Ohio</person>, and set out on
                     the intended Journey the same Day; <date day="1" month="November" year="1753"
                         >the next</date> I arrived at <place placeType="city"
                     >Fredericksburg</place>, and engaged Mr. <person first="Jacob" last="Van Braam"
@@ -228,7 +228,7 @@
                     <date day="25" month="November" year="1753">25th</date>, Came to Town four of
                     ten Frenchmen that deserted from a Company at the Cuscuscas, which lies at the
                     Mouth of this River; I got the following Account from them. They were sent from
-                        <place placeType="city">New Orleans</place> with 100 Men, and 8 Canoe Loads
+                        <place placeType="city" colony="Louisianna Territory">New Orleans</place> with 100 Men, and 8 Canoe Loads
                     of Provisions to this Place; where they expected to have met the same Number of
                     Men, from the Forts this Side <place placeType="lake">Lake Erie</place> to
                     convey them and the Stores up, who were not arrived when they ran off. </p>
@@ -238,16 +238,16 @@
                 <p n="18"> I enquired into the Situation of the French, on the <place
                         placeType="river">Missisippi</place>, their Number, and what Forts they had
                     built: They inform&apos;d me, That there were four small Forts between <place
-                        placeType="city">New Orleans</place> and the <place placeType="islands"
+                        placeType="city" colony="Louisianna Territory">New Orleans</place> and the <place placeType="islands"
                         >Black Islands</place>, garrison&apos;d with about 30 or 40 Men, and a few
-                    small Pieces, in each: That at <place placeType="city">New Orleans</place>,
+                    small Pieces, in each: That at <place placeType="city" colony="Louisianna Territory">New Orleans</place>,
                     which is near the Mouth of the <place placeType="river">Missisippi</place>,
                     there are 35 Companies, of 40 Men each, with a pretty strong Fort mounting 8
                     Carriage Guns; and at the <place placeType="islands">Black Islands</place> there
                     are sevseral Companies, and a Fort with 6 Guns. The <place placeType="islands"
                         >Black Islands</place> are about 130 Leagues above the Mouth of the <place
                         placeType="river">Ohio</place>, which is about 350 above <place
-                        placeType="city">New Orleans</place>: They also acquainted me, that there
+                        placeType="city" colony="Louisianna Territory">New Orleans</place>: They also acquainted me, that there
                     was a small pallisado&apos;d Fort on the <place placeType="river">Ohio</place>,
                     at the <place>Mouth of the Obaish</place> about 60 Leagues from the Missisippi:
                     The Obaish heads near the West End of <place placeType="lake">Lake Erie</place>,
@@ -255,7 +255,7 @@
                         >Missisippi</place> and those on the <place placeType="lake">Lakes</place>.
                     These Deserters came up from the lower <place placeType="city">Shanoah
                         Town</place> with one <person last="Brown">Brown</person>, an Indian Trader,
-                    and were going to <place placeType="city">Philadelphia</place>. </p>
+                    and were going to <place placeType="city" colony="Pennsylvania">Philadelphia</place>. </p>
 
 
 
@@ -601,7 +601,7 @@
                         last="Davidson">John Davison</person> (the Indian Interpreter that I brought
                     from the Loggs-Town with me) strictly charg&apos;d not to be out of their
                     Company, as I could not get them over to my Tent (they having some Business with
-                        <person>Custaloga,</person> to know the Reason why he did not deliver up the
+                        <person first="Custaloga">Custaloga,</person> to know the Reason why he did not deliver up the
                     French Belt which he had in Keeping) but was obliged to send <person last="Gist"
                         >Mr. Gist</person> over To-day to fetch them, which he did with great
                     Persuasion.</p>
@@ -665,10 +665,10 @@
             <entry>
                 <p n="55"><date month="December" day="14" year="1753">14th</date>, As the Snow
                     encreased very fast, and our Horses daily became weaker, I sent them off
-                    unloaded, under the Care of<person> Barnaby Currin</person> and two others, to
+                    unloaded, under the Care of Barnaby Currin</person> and two others, to
                     make all convenient Dispatch to <place placeType="fort">Venango</place>, and
                     there wait our Arrival if there was a Prospect of the Rivers freezing, if not,
-                    then to continue down to <place placeType="city">Shanapin&apos;s Town</place>,
+                    then to continue down to <place placeType="city" colony="Ohio">Shanapin&apos;s Town</place>,
                     at the Forks of the Ohio, and there to wait &apos;til we came to cross <place
                         placeType="river">Aligany</place>, intending myself to go down by Water, as
                     I had the Offer of a Canoe or Two.</p>
@@ -678,7 +678,7 @@
                     they accordingly pressed for Admittance this Evening, which at Length was
                     granted them, privately, with the Commander and one or two other Officers: The
                         <person last="Tanacharison">Half King</person> told me, that he offer&apos;d
-                    the Wampum to the <person>Commander</person>, who evaded taking it, and made
+                    the Wampum to the <person rank="Commander">Commander</person>, who evaded taking it, and made
                     many fair Promises of Love and Friendship; said he wanted to live in Peace, and
                     trade amicably with them, as a Proof of which he would send some Goods
                     immediately down to the <place placeType="city">Loggs-Town</place> for them; but
@@ -710,7 +710,7 @@
             </entry>
 
             <entry>
-                <p n="59"><date month="December" day="15" year="1753">15th</date>, The<person>
+                <p n="59"><date month="December" day="15" year="1753">15th</date>, The<person rank="Commandant">
                         Commandant</person> ordered a plentiful Store of Liquor, Provision, &amp;c.
                     to be put on Board our Canoe, and appeared to be extremely complaisant, though
                     he was exerting every Artifice that he could invent to set our own Indians at
@@ -749,7 +749,7 @@
                         <date day="22" month="December" year="1753">22d</date>, where we met with
                     our Horses. </p>
                 <p n="63">This Creek is extremely crooked, I dare say the Distance between the Fort
-                    and <place placeType="city">Venango</place> can&apos;t be less than 130 Miles,
+                    and <place placeType="city" colony="Northwest Territory">Venango</place> can&apos;t be less than 130 Miles,
                     to follow the Meanders.</p>
             </entry>
             <entry>
@@ -788,7 +788,7 @@
                     Match Coat; and with my Pack at my Back with my Papers and Provisions in it, and
                     a Gun, set out with <person first="Christopher" last="Gist">Mr. Gist</person>,
                     fitted in the same Manner, on Wednesday the 26th. The Day following, just after
-                    we had passed a Place called <place placeType="city">the Murdering-Town</place>,
+                    we had passed a Place called <place placeType="city" colony="Pennsylvania">the Murdering-Town</place>,
                     where we intended to quit the Path, and steer across the Country for <place
                         placeType="city">Shannapins Town</place>, we fell in with a Party of French
                     Indians, who had lain in Wait for us; one of them fired at <person
@@ -854,11 +854,11 @@
             </entry>
             <entry>
                 <p n="72">On the <date month="January" day="11" year="1754">11th</date> I got to
-                        <place placeType="city">Belvoir</place> where I stopped one Day to take
+                        <place placeType="city" colony="Virginia">Belvoir</place> where I stopped one Day to take
                     necessary Rest, and then set out, and arrived in <place placeType="city"
                         >Williamsburg</place> the <date month="January" day="16" year="1754"
                         >16th</date>, and waited upon his Honour <person first="Robert"
-                        last="Dinwiddie">the Governor</person> with the Letter I had brought from
+                        last="Dinwiddie" rank="Governor">the Governor</person> with the Letter I had brought from
                     the French Commandant, and to give an Account of the Proceedings of my Journey,
                     which I beg leave to do by offering the foregoing, as it contains the most
                     remarkable Occurrences that happened to me.</p>
