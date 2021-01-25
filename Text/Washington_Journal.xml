@@ -43,12 +43,12 @@
                 about ten weeks. He was accompanied by <person first="Christopher" last="Gist"
                     >Christopher Gist</person>, an explorer and surveyor employed by the Ohio
                 Company, by <person first="Jacob" last="Van Braam">Jacob Van Braam</person> a French
-                Interpreter, <people>four Indian traders and baggage men, and various Indian
+                Interpreter, <people peopleType="Natives">four Indian traders and baggage men, and various Indian
                     delegations and guards</people>, including Tanacharison, known as the "<person
                     last="Tanacharison">Half King</person>.” <person rank="Major" first="George"
                     last="Washington">Washington</person> accomplished far more than the mere
-                delivery of a letter: he practiced diplomacy to keep the <people>Native
-                    leaders</people> allied to the English cause; he interviewed <people>French
+                delivery of a letter: he practiced diplomacy to keep the <people peopleType="Natives">Native
+                    leaders</people> allied to the English cause; he interviewed <people peopleType="French">French
                     deserters</people> and reported on the extent of French military posts between
                     <place placeType="city" colony="Lousianna Teritorry">New Orleans</place> and the <place placeType="lake"
                     >Great Lakes</place>; he reconnoitered the Forks of the <place placeType="river"
@@ -136,7 +136,7 @@
                 <p n="7">Here I engaged <person last="Gist" first="Christopher">Mr. Gist</person> to
                     pilot us out, and also hired four others as Servitors, <person first="Barnaby"
                         last="Currin">Barnaby Currin</person>, and <person first="John"
-                        last="MacQuire">John MacQuire</person>, <people>Indian Traders</people>,
+                        last="MacQuire">John MacQuire</person>, <people peopleType="Natives">Indian Traders</people>,
                         <person first="Henry" last="Steward">Henry Steward</person>, and <person
                         last="Jenkin" first="William">William Jenkins</person>, and in Company with
                     those Persons, left the Inhabitants the Day following.</p>
@@ -145,7 +145,7 @@
                     our reaching <place placeType="home">Mr. Frazier's</place> an Indian Trader, at
                     the Mouth of <place>Turtle Creek,</place> on <place placeType="river"
                         >Monongahela</place>, till <date year="1753" month="November" day="22"
-                        >Thursday the 22d.</date> We were informed here, that Expresses were sent a
+                        >Thursday the 22d</date>. We were informed here, that Expresses were sent a
                     few Days ago to the Traders down the River, to acquaint them with the French
                     General&apos;s Death, and the Return of the major Part of the French Army into
                     Winter Quarters.</p>
@@ -203,10 +203,10 @@
                 <p n="15"> As soon as I came into Town, I went to <person rank="chief"
                         last="Monacatoocha">Monacatoocha</person> (as the <person
                         last="Tanacharison"> Half King </person>was out at his hunting Cabbin on
-                        <place>little Beaver Creek,</place> about 15 Miles off ) and inform&apos;d
+                        <place>little Beaver Creek</place>, about 15 Miles off ) and inform&apos;d
                     him by <person first="John" last="Davidson">my Indian Interpreter</person>, that
                     I was sent a Messenger to the<person rank="General"> French General</person>;
-                    and was ordered to call upon the <people peopleType="Indians">Sachems of the Six
+                    and was ordered to call upon the <people peopleType="Natives">Sachems of the Six
                         Nations</people>, to acquaint them with it.—I gave him a String of Wampum,
                     and a Twist of Tobacco, and desired him to send for the <person
                         last="Tanacharison">Half King</person>; which he promised to do by a Runner
@@ -267,7 +267,7 @@
                     Commandant&apos;s and Reception there; and to give me an Account of the Ways and
                     Distance. He told me, that the nearest and levellest Way was now impassable, by
                     Reason of many large miry Savannas; that we must be obliged to go by <place
-                        placeType="city" colony="Pennsylvania">Venango,</place> and should not get
+                        placeType="city" colony="Pennsylvania">Venango</place>, and should not get
                     to the near Fort under 5 or 6 Night&apos;s Sleep, good Travelling. When he went
                     to the Fort, he said he was received in a very stern Manner by the late
                     Commander; Who ask&apos;d him very abruptly, what he had come about, and to
@@ -306,7 +306,7 @@
                     now to tell it to you, for I am not afraid to discharge you off this Land. </p>
 
                 <p n="25"> This he said was the Substance of what he said to the General, who made
-                    this Reply.</p>
+                    this Reply</p>.
 
                 <p n="26"> Now <person last="Tanacharison">my Child</person>, I have heard your
                     Speech, you spoke first, but it is my Time to speak now. Where is my Wampum that
@@ -323,17 +323,17 @@
                     were at War: Lead was the Man that went down, and took Possession of that River:
                     It is my Land, and I will have it, let who will stand up for, or say against it.
                     I’ll buy and sell with the English, (mockingly). If People will be rul&apos;d by
-                    me, they may expect Kindness, but not else.</p>
+                    me, they may expect Kindness, but not else</p>.
 
                 <p n="27">The <person last="Tanacharison">Half-King</person> told me he enquired of
                     the General after two Englishmen that were made Prisoners, and received this
-                    Answer.</p>
+                    Answer</p>.
 
                 <p n="28">
                     <speech>Child, You think it is a very great Hardship that I made Prisoners of
                         those two People at <place placeType="fort">Venango</place>, don&apos;t you
                         concern yourself with it, we took and carried them to Canada, to get
-                        Intelligence of what the English were doing in Virginia.</speech>
+                        Intelligence of what the English were doing in Virginia</speech>.
                 </p>
 
 
@@ -342,10 +342,10 @@
                         <place placeType="creek">French-Creek</place>, near a small Lake about 15
                     Miles asunder, and a large Waggon Road between; they are both built after the
                     same Model, but different in the Size; that on the Lake the largest; he gave me
-                    a Plan of them, of his own drawing.</p>
+                    a Plan of them, of his own drawing</p>.
 
                 <p n="30"> The Indians enquired very particularly after their Brothers in <place
-                        placeType="colony">Carolina Goal.</place></p>
+                        placeType="colony">Carolina Goal</place>.</p>
 
                 <p n="31"> They also asked what sort of a Boy it was that was taken from the
                     South-Branch; for they had, by some Indians, heard that a Party of French
@@ -353,9 +353,9 @@
                         Town</place>, towards the Lakes.</p>
             </entry>
             <entry>
-                <p n="32"><date month="November" day="26" year="1753">26th.</date> We met in Council
+                <p n="32"><date month="November" day="26" year="1753">26th</date>. We met in Council
                     at the Long-House, <time>about 9 o&apos;Clock</time>, where I spoke to them as
-                    follows,</p>
+                    follows</p>,
 
                 <p n="33">
                     <speech sp="Washington">Brothers, I have called you together in Council, by
@@ -405,7 +405,7 @@
                     without a Guard, for Fear some Accident should befal us, and draw a Reflection
                     upon him; besides, says he, this is a Matter of no small Moment, and must not be
                     entered into without due Consideration; for now I intend to deliver up the
-                    French-Speech-Belt, and make the <people peopleType="Indians">Shanoahs and
+                    French-Speech-Belt, and make the <people peopleType="Natives">Shanoahs and
                         Delawares</people> do the same; and accordingly he gave Orders to <person
                         last="Shingiss">King Shingiss</person>, who was present, to attend on
                         <date>Wednesday Night</date> with the Wampum, and two Men of their Nation to
@@ -416,8 +416,8 @@
                 <p n="37"> I gave them back a String of Wampum that I met with at <person
                         last="Frazier">Mr. Frazier</person>&apos;s, which they had sent with a
                     Speech to his Honour the Governor, to inform him, that three Nations of French
-                    Indians, viz. <people peopleType="Indians">Chippoways</people>, <people
-                        peopleType="Indians">Ottoways</people>, and <people peopleType="Indians"
+                    Indians, viz. <people peopleType="Natives">Chippoways</people>, <people
+                        peopleType="Natives">Ottoways</people>, and <people peopleType="Natives"
                         >Orundacks</people>, had taken up the Hatchet against the English, and
                     desired them to repeat it over again, which they postponed doing till they met
                     in full Council with the Shannoahs and Delaware Chiefs. </p>
@@ -448,9 +448,9 @@
                 <p n="40">
                     <person last="Monocatoocha">Monocatoocha</person> informed me, that an
                         <person>Indian</person> from <place placeType="fort">Venango</place> brought
-                    News, a few Days ago, that the <people peopleType="soldiers">French</people> had
-                    called all the <people peopleType="Indians">Mingos</people>,<people
-                        peopleType="Indians"> Delawares</people>, &amp;c. together at that Place,
+                    News, a few Days ago, that the <people peopleType="French">French</people> had
+                    called all the <people peopleType="Natives">Mingos</people>,<people
+                        peopleType="Natives"> Delawares</people>, &amp;c. together at that Place,
                     and told them that they intended to have been down the River this Fall, but the
                     Waters were growing cold, and the Winter advancing, which obliged them to go
                     into Quarters: But they might assuredly expect them in the Spring, with a far
@@ -460,7 +460,7 @@
                     Attempts made to stop them) in which Time they should conquer, but if they
                     should prove equally strong, that they and the English, would join to cut them
                     all off, and divide the Land between them; that tho&apos; they had lost their
-                    General, and some few of their <people peopleType="soldiers">Soldiers</people>,
+                    General, and some few of their <people peopleType="French">Soldiers</people>,
                     yet there were Men enough to reinforce them, and make them Masters of the <place
                         placeType="region">Ohio</place>. </p>
 
@@ -472,9 +472,9 @@
 
             <entry>
                 <p n="42"><date month="November" day="29" year="1753">29th</date>. <people
-                        peopleType="Indians">The Half-King and Monocatoocha,</people> came very
+                        peopleType="Natives">The Half-King and Monocatoocha</people>, came very
                     early, and begged me to stay one Day more, for notwithstanding they had used all
-                    the Diligence in their Power, the <people peopleType="Indians">Shanoah Chiefs
+                    the Diligence in their Power, the <people peopleType="Natives">Shanoah Chiefs
                     </people>had not brought the Wampum they ordered, but would certainly be in
                     To-night; if not, they would delay me no longer, but would send it after us as
                     soon as they arrived: When I found them so pressing in their Request, and knew
@@ -493,7 +493,7 @@
                         Chiefs,</person> which was giving up the Belt the late Commandant had asked
                     for, and repeating near the same Speech he himself had done before. He also
                     delivered a String of Wampum to this Chief, which was sent by King Shingiss, to
-                    be given to <person last="Custaloga">Custaloga,</person> with Orsders to repair
+                    be given to <person last="Custaloga">Custaloga</person>, with Orsders to repair
                     to the French, and deliver up the Wampum.He likewise gave a very large String of
                     black and white Wampum, which was to be sent up immediately to the Six Nas
                     tions, if the French refused to quit the Land at this Warning;which was the
@@ -502,18 +502,18 @@
             </entry>
 
             <entry>
-                <p n="43"><date month="November" day="30" year="1753"> 30th.</date> Last Night the
+                <p n="43"><date month="November" day="30" year="1753"> 30th</date>. Last Night the
                     great Men assembled to their Councils House, to consult further about this
                     Journey, and who were to go; the Result of which was, that only three of their
                     Chiefs, with one of their best Hunters, should be our Convoy: The Reason which
                     they gave for not sending more, after what had been proposed at Council the<date
-                        month="November" day="26" year="1753"> 26th,</date> was, that a greater
+                        month="November" day="26" year="1753"> 26th</date>, was, that a greater
                     Number might give the French Suspicions of some bad Design, and cause them to be
                     treated rudely: But I rather think they could not get their Hunters in. We set
-                    out about <time>9 o&apos;Clock</time> with the <people peopleType="Indians">Half
-                        King, Jeskakake, White Thunder, and the Hunter,</people> and travelled on
+                    out about <time>9 o&apos;Clock</time> with the <people peopleType="Natives">Half
+                        King, Jeskakake, White Thunder, and the Hunter</people>, and travelled on
                     the Road to <place placeType="fort">Venango</place>, where we arrived the <date
-                        month="December" day="4" year="1753">4th of December,</date> without any
+                        month="December" day="4" year="1753">4th of December</date>, without any
                     Thing remarkable happening but a continued Series of bad Weather. This is an old
                     Indian Town, situated at the Mouth of <place placeType="creek">French
                         Creek</place> on <place placeType="river">Ohio</place>, and lies near N.
@@ -522,7 +522,7 @@
                     House which they drove <person first="John" last="Frazier">Mr. John
                         Frazier</person>, an English Subject, from; I immediately repaired to it, to
                     know where the Commander resided: There were three Officers, one of whom,
-                        <person rank="Captain" last="Joncaire">Capt. Joncaire,</person>
+                        <person rank="Captain" last="Joncaire">Capt. Joncaire </person>,
                     inform&apos;d me, that he had the Command of the <place placeType="region"
                         >Ohio</place>, but that there was a General Officer at the near Fort, which
                     he adsvised me to for an Answer. He invited us to sup with them, and treated us
@@ -561,7 +561,7 @@
                 <p n="44"><date month="December" day="5" year="1753">5th</date>, Rain&apos;d
                     excessively all Day, which prevented our Travelling. <person rank="Captain"
                         last="Joncaire">Capt. Joncaire</person> sent for the <person
-                        last="Tanacharison">Half King,</person> as he had but just heard that he
+                        last="Tanacharison">Half King</person>, as he had but just heard that he
                     came with me: He affected to be much concern&apos;d that I did not make free to
                     bring them in before; I excused it in the best Manner I was capable;and told him
                     I did not think their Company agreeable, as I had heard him say a good deal in
@@ -576,7 +576,7 @@
                     the Caution that was given.</p>
             </entry>
             <entry>
-                <p n="45"><date month="December" day="6" year="1753">6th,</date> The <person
+                <p n="45"><date month="December" day="6" year="1753">6th</date>, The <person
                         last="Tanacharison">Half King</person> came to my Tent, quite sober, and
                     insisted very much that I should stay and hear what he had to say to the French;
                     I fain would have prevented his speaking any Thing, &apos;til he came to the
@@ -601,7 +601,7 @@
                         last="Davidson">John Davison</person> (the Indian Interpreter that I brought
                     from the Loggs-Town with me) strictly charg&apos;d not to be out of their
                     Company, as I could not get them over to my Tent (they having some Business with
-                        <person first="Custaloga">Custaloga,</person> to know the Reason why he did not deliver up the
+                        <person first="Custaloga">Custaloga</person>, to know the Reason why he did not deliver up the
                     French Belt which he had in Keeping) but was obliged to send <person last="Gist"
                         >Mr. Gist</person> over To-day to fetch them, which he did with great
                     Persuasion.</p>
@@ -614,7 +614,7 @@
                     the Water was so high and rapid.</p>
 
                 <p n="48"> We passed over much good Land since we left <place placeType="fort"
-                        >Venango,</place> and through several extensive and very rich Meadows; one
+                        >Venango</place>, and through several extensive and very rich Meadows; one
                     of which I believe was near four Miles in Length, and considerably wide in some
                     Places.</p>
             </entry>
@@ -642,14 +642,14 @@
                     taking the Dimensions of the Fort, and making what Observations I could.</p>
 
                 <p n="53">It is situated on the South, or <place placeType="river">West Fork of
-                        French Creek,</place> near the Water, and is almost surrounded by the Creek,
+                        French Creek</place>, near the Water, and is almost surrounded by the Creek,
                     and a small Branch of it which forms a Kind of an Island; four Houses compose
                     the Sides; the Bastions are made of Piles driven into the Ground, and about 12
                     Feet above, and sharp at Top, with Port-Holes cut for Cannon and Loop-Holes for
                     the small Arms to fire through; there are eight 6 lb. Pieces mounted, two in
                     each Bastion, and one Piece of four Pound before the Gate; in the Bastions are a
-                    Guard-House, Chapel, <place>Doctor&apos;s Lodging,</place> and <place>the
-                        Commander&apos;s private Store,</place> round which are laid Platforms for
+                    Guard-House, Chapel, <place>Doctor&apos;s Lodging</place>, and <place>the
+                        Commander&apos;s private Store</place>, round which are laid Platforms for
                     the Cannon and Men to stand on: There are several Barracks without the Fort, for
                     the Soldiers Dwelling, covered, some with Bark, and some with Boards, made
                     chiefly of Loggs: There are also several other Houses, such as Stables, Smiths
@@ -685,7 +685,7 @@
                     I rather think the Design of that is, to bring away all our straggling Traders
                     they meet with, as I privately understood they intended to carry an Officer,
                     &amp;c. with them; and what rather confirms this Opinion, I was enquiring of the
-                    Commander, by what Authority he had made Prisoners of <people>several of our
+                    Commander, by what Authority he had made Prisoners of <people peopleType="English">several of our
                         English Subjects</people>; he told me that the Country belong&apos;d to
                     them, that no Englishman had a Right to trade upon those Waters; and that he had
                     Orders to make every Person Prisoner that attempted it on the <place
@@ -734,7 +734,7 @@
                     Morning.</p>
             </entry>
             <entry>
-                <p n="61"><date month="December" day="16" year="1753">16th,</date> The French were
+                <p n="61"><date month="December" day="16" year="1753">16th</date>, The French were
                     not slack in their Inventions to keep the Indians this Day also; but as they
                     were obligated, according to Promise, to give the Present, they then endeavoured
                     to try the Power of Liquor, which I doubt not would have prevailed at any other
@@ -794,7 +794,7 @@
                     Indians, who had lain in Wait for us; one of them fired at <person
                         first="Christopher" last="Gist">Mr. Gist</person> or me, not 15 Steps, but
                     fortunately missed. We took this fellow into Custody, and kept him till about
-                        <time timeType="evening">9 o&apos;Clock</time> at Night, and then let him
+                        <time timeType="night">9 o&apos;Clock</time> at Night, and then let him
                     go, and walked all the remaining Part of the Night without making any Stop, that
                     we might get the Start, so far, as to be out of the Reach of their Pursuit the
                     next Day, as we were well assured they would follow our Tract as soon as it was
@@ -823,7 +823,7 @@
                     who were going to the Southward to War, but coming to a Place upon the Head of
                     the great Cunnaway, where they found seven People killed and scalped, all but
                     one Woman with very light Hair, they turned about and ran back, for Fear the
-                        <people peopleType="Indians">Inhabitants</people> should rise and take them
+                        <people peopleType="Natives">Inhabitants</people> should rise and take them
                     as the Authors of the Murder: They resport that the People were lying about the
                     House, and some of them much torn and eaten by Hogs: By the Marks that were
                     left, they say they were French Indians of the Ottaway Nastion,that did it. </p>
