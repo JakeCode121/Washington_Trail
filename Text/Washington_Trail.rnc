@@ -1,55 +1,58 @@
-start= journal
 
-journal= element journal{section+}
+start = journal
 
-section= element section{head*, title*, body*}
+journal = element journal {section+}
 
-head= element head{intro*, p+}
+head = element head {intro, p+}
 
-title= element title {p+}
+intro = element intro {text+, person, date}
 
-body= element body {heading, entry+, closing*}
+section = element section {head*, title*, body*}
+
+title = element title {p+}
+
+body = element body {heading, entry+, closing*}
 
 heading = element heading {p+}
 
-p= element p {mixed {(date |  people | person | place | speech | time | text)+}}
+p = element p {n, mixed{(date | people | person | place | speech | time)*}}
 
-entry=element entry {p+}
+n = attribute n {xsd:integer}
 
-closing = element closing {mixed {(text | person)*}}
+entry =element entry {p+}
 
-intro= element intro {mixed {(text | person | year)+}}
+closing = element closing {text, person, text}
 
-person= element person {rank?, last?, first?}
+person = element person {rank?, last?, first?, text+}
 
-people= element people {peopleType?}
+people = element people {peopleType?, text+}
 
-place= element place {placeType?}
+place = element place {placeType?, colony?, text+}
 
-date =element date {month, day, year}
+date = element date {month?, day?, year?, text}
 
 day = attribute day {xsd:integer}
 
-time = element time {timeType, text}
+time = element time {timeType?, text+}
 
 timeType = attribute timeType {'morning' | 'afternoon' | 'evening' | 'night'}
 
-speech= element speech {sp, text}
+speech = element speech {text+, mixed{(sp | person | place)*}}
 
-rank=attribute rank {'Major'|'Governor'|'chief'|'General'|'Captain'}
+sp = attribute sp {'Tanacharison'|'Washington'}
 
-last= attribute last {'Washington'|'Dinwiddie'|'Gist'|'Van Braam'|'Jefferson'|'Hunter'|'Currin'|'MacQuire'|'Davidson'|'Shingiss'|'Frazier'|'toocha'|'Monocatoocha'|'Joncaire'|'Custaloga'|'Riparti'|'White-Thunder'|'Trotter'|'MascClocklan'}
+rank =attribute rank {'Major'|'Governor'|'chief'|'General'|'Captain'|'Commander'|'Commandant'}
 
-first= attribute first {'George' | 'Robert' |'Christopher' | 'Jacob' |'Thomas' |'William'|'Barnaby' | 'John' |'John'|'Monocas'|'Shingiss'|'Jeskake'|'James'}
+last = attribute last {'Washington'|'Dinwiddie'|'Gist'|'Van Braam'|'Jefferson'|'Hunter'|'Currin'|'MacQuire'|'Davidson'|'Shingiss'|'Frazier'|'toocha'|'Monacatoocha'|'Joncaire'|'Custaloga'|'Riparti'|'White-Thunder'|'Trotter'|'MacClocklan'|'Tanacharison'|'Steward'|'Jenkin'|'Brown'|'Davison'|'LaForce'|'Aliquippa'|'Campbell'}
 
-peopleType= attribute peopleType {'Indians'|'soldiers'}
+first = attribute first {'George' | 'Robert' |'Christopher' | 'Jacob' |'Thomas' |'William'|'Barnaby' | 'John' |'John'|'Monocas'|'Shingiss'|'Jeskake'|'James'|'Henry'|'Custaloga'|'Joseph'}
 
-month=attribute month {'October'|'January'|'February'|'November'|'December'}
+peopleType = attribute peopleType {'Indians'|'soldiers'|'Natives'|'French'|'English'}
 
-year= attribute year {'1753'|'1754'}
+month =attribute month {'October'|'January'|'February'|'November'|'December'}
 
-placeType= attribute placeType {'colony'|'river'|'region'|'city'|'ocean'|'State'|'lake'|'creek'|'home'|'fort'|'province'}
+year = attribute year {'1753'|'1754'}
 
-colony= attribute colony {'Virginia' | 'Pennsylvania'} 
+placeType = attribute placeType {'colony'|'river'|'region'|'city'|'ocean'|'State'|'lake'|'creek'|'home'|'fort'|'province'|'islands'}
 
-sp= attribute sp {text}
+colony = attribute colony {'Virginia' | 'Pennsylvania'|'Louisiana Territory'|'Massachusetts'|'Maryland'|'Ohio'|'Northwest Territory'}

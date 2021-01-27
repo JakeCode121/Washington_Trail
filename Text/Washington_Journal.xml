@@ -9,7 +9,7 @@
 
             <intro> The Journal of <person rank="Major" first="George" last="Washington">George
                     Washington</person>
-                <year year="1754">1754</year>
+                <date year="1754">1754</date>
             </intro>
 
 
@@ -18,7 +18,7 @@
                     rank="Major" first="George" last="Washington">George Washington</person>, a
                 21-year-old major in the Virginia militia, volunteered to carry a letter from the
                     <person rank="Governor" first="Robert" last="Dinwiddie">governor</person> of
-                    <place placeType="colony">Virginia</place> to the <person rank="commander">French
+                    <place placeType="colony">Virginia</place> to the <person rank="Commander">French
                     commander</person> of the forts recently built on the headwaters of the <place
                     placeType="river">Ohio River</place> in northwestern <place placeType="colony"
                     >Pennsylvania</place>. The French had recently expanded their military
@@ -32,7 +32,7 @@
                 claims that made those territories part of <place placeType="colony"
                     colony="Virginia">Virginia</place> and <place placeType="colony"
                     colony="Pennsylvania">Pennsylvania</place>, as granted by the British Crown, and
-                his letter to the <person rank="commander">French commander</person> instructed him to cease, desist,
+                his letter to the <person rank="Commander">French commander</person> instructed him to cease, desist,
                 and depart from those regions.</p>
 
             <p n="2">
@@ -50,7 +50,7 @@
                 delivery of a letter: he practiced diplomacy to keep the <people peopleType="Natives">Native
                     leaders</people> allied to the English cause; he interviewed <people peopleType="French">French
                     deserters</people> and reported on the extent of French military posts between
-                    <place placeType="city" colony="Lousianna Teritorry">New Orleans</place> and the <place placeType="lake"
+                <place placeType="city" colony="Louisiana Territory">New Orleans</place> and the <place placeType="lake"
                     >Great Lakes</place>; he reconnoitered the Forks of the <place placeType="river"
                     >Ohio</place> with an eye to the proper site for building a fort; and he
                 inspected and reported on the construction of the new French forts and made
@@ -59,7 +59,7 @@
 
             <p n="3">When <person rank="Major" first="George" last="Washington">Washington</person>
                 arrived back in <place placeType="city" colony="Virginia">Williamsburg</place> on
-                    <date month="January" date="16" year="1754">January 16, 1754</date>, <person
+                    <date month="January" day="16" year="1754">January 16, 1754</date>, <person
                     rank="Governor" first="Robert" last="Dinwiddie">Governor Dinwiddie</person>
                 immediately asked him to prepare a written report for the House of Burgesses.
                     <person rank="Governor" first="Robert" last="Dinwiddie">Dinwiddie</person> then
@@ -121,7 +121,7 @@
                         1753</date>, I was commissioned and appointed by <person rank="Governor"
                         first="Robert" last="Dinwiddie">the Honourable Robert Dinwiddie, Esq;
                         Governor,&amp;c. of Virginia</person>, to visit and deliver a Letter to the
-                        <person ranb="Commandant">Commandant of the French Forces on the Ohio</person>, and set out on
+                        <person rank="Commandant">Commandant of the French Forces on the Ohio</person>, and set out on
                     the intended Journey the same Day; <date day="1" month="November" year="1753"
                         >the next</date> I arrived at <place placeType="city"
                     >Fredericksburg</place>, and engaged Mr. <person first="Jacob" last="Van Braam"
@@ -228,7 +228,7 @@
                     <date day="25" month="November" year="1753">25th</date>, Came to Town four of
                     ten Frenchmen that deserted from a Company at the Cuscuscas, which lies at the
                     Mouth of this River; I got the following Account from them. They were sent from
-                        <place placeType="city" colony="Louisianna Territory">New Orleans</place> with 100 Men, and 8 Canoe Loads
+                    <place placeType="city" colony="Louisiana Territory">New Orleans</place> with 100 Men, and 8 Canoe Loads
                     of Provisions to this Place; where they expected to have met the same Number of
                     Men, from the Forts this Side <place placeType="lake">Lake Erie</place> to
                     convey them and the Stores up, who were not arrived when they ran off. </p>
@@ -238,16 +238,16 @@
                 <p n="18"> I enquired into the Situation of the French, on the <place
                         placeType="river">Missisippi</place>, their Number, and what Forts they had
                     built: They inform&apos;d me, That there were four small Forts between <place
-                        placeType="city" colony="Louisianna Territory">New Orleans</place> and the <place placeType="islands"
+                        placeType="city" colony="Louisiana Territory">New Orleans</place> and the <place placeType="islands"
                         >Black Islands</place>, garrison&apos;d with about 30 or 40 Men, and a few
-                    small Pieces, in each: That at <place placeType="city" colony="Louisianna Territory">New Orleans</place>,
+                    small Pieces, in each: That at <place placeType="city" colony="Louisiana Territory">New Orleans</place>,
                     which is near the Mouth of the <place placeType="river">Missisippi</place>,
                     there are 35 Companies, of 40 Men each, with a pretty strong Fort mounting 8
                     Carriage Guns; and at the <place placeType="islands">Black Islands</place> there
                     are sevseral Companies, and a Fort with 6 Guns. The <place placeType="islands"
                         >Black Islands</place> are about 130 Leagues above the Mouth of the <place
                         placeType="river">Ohio</place>, which is about 350 above <place
-                        placeType="city" colony="Louisianna Territory">New Orleans</place>: They also acquainted me, that there
+                            placeType="city" colony="Louisiana Territory">New Orleans</place>: They also acquainted me, that there
                     was a small pallisado&apos;d Fort on the <place placeType="river">Ohio</place>,
                     at the <place>Mouth of the Obaish</place> about 60 Leagues from the Missisippi:
                     The Obaish heads near the West End of <place placeType="lake">Lake Erie</place>,
@@ -306,7 +306,7 @@
                     now to tell it to you, for I am not afraid to discharge you off this Land. </p>
 
                 <p n="25"> This he said was the Substance of what he said to the General, who made
-                    this Reply</p>.
+                    this Reply.</p>
 
                 <p n="26"> Now <person last="Tanacharison">my Child</person>, I have heard your
                     Speech, you spoke first, but it is my Time to speak now. Where is my Wampum that
@@ -323,11 +323,11 @@
                     were at War: Lead was the Man that went down, and took Possession of that River:
                     It is my Land, and I will have it, let who will stand up for, or say against it.
                     I’ll buy and sell with the English, (mockingly). If People will be rul&apos;d by
-                    me, they may expect Kindness, but not else</p>.
+                    me, they may expect Kindness, but not else.</p>
 
                 <p n="27">The <person last="Tanacharison">Half-King</person> told me he enquired of
                     the General after two Englishmen that were made Prisoners, and received this
-                    Answer</p>.
+                    Answer.</p>
 
                 <p n="28">
                     <speech>Child, You think it is a very great Hardship that I made Prisoners of
@@ -342,7 +342,7 @@
                         <place placeType="creek">French-Creek</place>, near a small Lake about 15
                     Miles asunder, and a large Waggon Road between; they are both built after the
                     same Model, but different in the Size; that on the Lake the largest; he gave me
-                    a Plan of them, of his own drawing</p>.
+                    a Plan of them, of his own drawing.</p>
 
                 <p n="30"> The Indians enquired very particularly after their Brothers in <place
                         placeType="colony">Carolina Goal</place>.</p>
@@ -355,7 +355,7 @@
             <entry>
                 <p n="32"><date month="November" day="26" year="1753">26th</date>. We met in Council
                     at the Long-House, <time>about 9 o&apos;Clock</time>, where I spoke to them as
-                    follows</p>,
+                    follows,</p>
 
                 <p n="33">
                     <speech sp="Washington">Brothers, I have called you together in Council, by
@@ -446,7 +446,7 @@
 
 
                 <p n="40">
-                    <person last="Monocatoocha">Monocatoocha</person> informed me, that an
+                    <person last="Monacatoocha">Monacatoocha</person> informed me, that an
                         <person>Indian</person> from <place placeType="fort">Venango</place> brought
                     News, a few Days ago, that the <people peopleType="French">French</people> had
                     called all the <people peopleType="Natives">Mingos</people>,<people
@@ -543,12 +543,12 @@
                     Forts, 150 or there abouts in each, the first of which is on <place
                         placeType="creek">French Creek</place>, near a small Lake, about 60 Miles
                     from <place placeType="fort">Venango</place>, near N. N. W. the next lies on
-                        <place PlaceType="lake">Lake Erie</place>, where the greatest Part of their
+                        <place placeType="lake">Lake Erie</place>, where the greatest Part of their
                     Stores are kept, about 15 Miles from the other; from that it is 120 Miles to the
                     carrying Place, at the Falls of Lake Erie, where there is a small Fort which
                     they lodge their Goods at, in bringing them from <place placeType="city"
                         >Montreal</place>, the Place that all their Stores come from: The next Fort
-                    lies about 20 Miles from this, on <place PlaceType="lake">Ontario Lake</place>;
+                    lies about 20 Miles from this, on <place placeType="lake">Ontario Lake</place>;
                     between this Fort and <place placeType="city">Montreal</place> there are three
                     others, the first of which is near opposite to the English <place
                         placeType="fort">Fort Oswego</place>. From the Fort on Lake Erie to Montreal
@@ -665,7 +665,7 @@
             <entry>
                 <p n="55"><date month="December" day="14" year="1753">14th</date>, As the Snow
                     encreased very fast, and our Horses daily became weaker, I sent them off
-                    unloaded, under the Care of Barnaby Currin</person> and two others, to
+                    unloaded, under the Care of <person first="Barnaby" last="Currin">Barnaby Currin</person> and two others, to
                     make all convenient Dispatch to <place placeType="fort">Venango</place>, and
                     there wait our Arrival if there was a Prospect of the Rivers freezing, if not,
                     then to continue down to <place placeType="city" colony="Ohio">Shanapin&apos;s Town</place>,
